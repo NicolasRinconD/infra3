@@ -1,0 +1,4001 @@
+delegado 0: recibio-HOLA-continuando.
+delegado 0: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 0: envio certificado del servidor. continuando.
+delegado 0: recibio y creo llave simetrica. continuando.
+delegado 0: recibio confirmacion del cliente:OK-continuado.
+delegado 0: recibio cc y clave - continuando
+delegado 0: envio valor 72976000 al cliente. continuado.
+delegado 0: Terminando exitosamente.OK
+TTMS: 675
+//
+delegado 1: recibio-HOLA-continuando.
+delegado 1: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 1: envio certificado del servidor. continuando.
+delegado 1: recibio y creo llave simetrica. continuando.
+delegado 1: recibio confirmacion del cliente:OK-continuado.
+delegado 1: recibio cc y clave - continuando
+delegado 1: envio valor 16111600 al cliente. continuado.
+delegado 1: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 2: recibio-HOLA-continuando.
+delegado 2: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 2: envio certificado del servidor. continuando.
+delegado 2: recibio y creo llave simetrica. continuando.
+delegado 2: recibio confirmacion del cliente:OK-continuado.
+delegado 2: recibio cc y clave - continuando
+delegado 2: envio valor 71003600 al cliente. continuado.
+delegado 2: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 3: recibio-HOLA-continuando.
+delegado 3: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 3: envio certificado del servidor. continuando.
+delegado 3: recibio y creo llave simetrica. continuando.
+delegado 3: recibio confirmacion del cliente:OK-continuado.
+delegado 3: recibio cc y clave - continuando
+delegado 3: envio valor 45397900 al cliente. continuado.
+delegado 3: Terminando exitosamente.OK
+TTMS: 131
+//
+delegado 4: recibio-HOLA-continuando.
+delegado 4: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 4: envio certificado del servidor. continuando.
+delegado 4: recibio y creo llave simetrica. continuando.
+delegado 4: recibio confirmacion del cliente:OK-continuado.
+delegado 4: recibio cc y clave - continuando
+delegado 4: envio valor 16658000 al cliente. continuado.
+delegado 4: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 5: recibio-HOLA-continuando.
+delegado 5: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 5: envio certificado del servidor. continuando.
+delegado 5: recibio y creo llave simetrica. continuando.
+delegado 5: recibio confirmacion del cliente:OK-continuado.
+delegado 5: recibio cc y clave - continuando
+delegado 5: envio valor 22657800 al cliente. continuado.
+delegado 5: Terminando exitosamente.OK
+TTMS: 127
+//
+delegado 6: recibio-HOLA-continuando.
+delegado 6: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 6: envio certificado del servidor. continuando.
+delegado 6: recibio y creo llave simetrica. continuando.
+delegado 6: recibio confirmacion del cliente:OK-continuado.
+delegado 6: recibio cc y clave - continuando
+delegado 6: envio valor 69661800 al cliente. continuado.
+delegado 6: Terminando exitosamente.OK
+TTMS: 127
+//
+delegado 7: recibio-HOLA-continuando.
+delegado 7: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 7: envio certificado del servidor. continuando.
+delegado 7: recibio y creo llave simetrica. continuando.
+delegado 7: recibio confirmacion del cliente:OK-continuado.
+delegado 7: recibio cc y clave - continuando
+delegado 7: envio valor 76975500 al cliente. continuado.
+delegado 7: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 8: recibio-HOLA-continuando.
+delegado 8: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 8: envio certificado del servidor. continuando.
+delegado 8: recibio y creo llave simetrica. continuando.
+delegado 8: recibio confirmacion del cliente:OK-continuado.
+delegado 8: recibio cc y clave - continuando
+delegado 8: envio valor 2488 al cliente. continuado.
+delegado 8: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 9: recibio-HOLA-continuando.
+delegado 9: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 9: envio certificado del servidor. continuando.
+delegado 9: recibio y creo llave simetrica. continuando.
+delegado 9: recibio confirmacion del cliente:OK-continuado.
+delegado 9: recibio cc y clave - continuando
+delegado 9: envio valor 11226100 al cliente. continuado.
+delegado 9: Terminando exitosamente.OK
+TTMS: 126
+//
+delegado 10: recibio-HOLA-continuando.
+delegado 10: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 10: envio certificado del servidor. continuando.
+delegado 10: recibio y creo llave simetrica. continuando.
+delegado 10: recibio confirmacion del cliente:OK-continuado.
+delegado 10: recibio cc y clave - continuando
+delegado 10: envio valor 13424000 al cliente. continuado.
+delegado 10: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 11: recibio-HOLA-continuando.
+delegado 11: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 11: envio certificado del servidor. continuando.
+delegado 11: recibio y creo llave simetrica. continuando.
+delegado 11: recibio confirmacion del cliente:OK-continuado.
+delegado 11: recibio cc y clave - continuando
+delegado 11: envio valor 84850600 al cliente. continuado.
+delegado 11: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 12: recibio-HOLA-continuando.
+delegado 12: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 12: envio certificado del servidor. continuando.
+delegado 12: recibio y creo llave simetrica. continuando.
+delegado 12: recibio confirmacion del cliente:OK-continuado.
+delegado 12: recibio cc y clave - continuando
+delegado 12: envio valor 43990400 al cliente. continuado.
+delegado 12: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 13: recibio-HOLA-continuando.
+delegado 13: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 13: envio certificado del servidor. continuando.
+delegado 13: recibio y creo llave simetrica. continuando.
+delegado 13: recibio confirmacion del cliente:OK-continuado.
+delegado 13: recibio cc y clave - continuando
+delegado 13: envio valor 34053800 al cliente. continuado.
+delegado 13: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 14: recibio-HOLA-continuando.
+delegado 14: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 14: envio certificado del servidor. continuando.
+delegado 14: recibio y creo llave simetrica. continuando.
+delegado 14: recibio confirmacion del cliente:OK-continuado.
+delegado 14: recibio cc y clave - continuando
+delegado 14: envio valor 95146800 al cliente. continuado.
+delegado 14: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 15: recibio-HOLA-continuando.
+delegado 15: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 15: envio certificado del servidor. continuando.
+delegado 15: recibio y creo llave simetrica. continuando.
+delegado 15: recibio confirmacion del cliente:OK-continuado.
+delegado 15: recibio cc y clave - continuando
+delegado 15: envio valor 19638000 al cliente. continuado.
+delegado 15: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 16: recibio-HOLA-continuando.
+delegado 16: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 16: envio certificado del servidor. continuando.
+delegado 16: recibio y creo llave simetrica. continuando.
+delegado 16: recibio confirmacion del cliente:OK-continuado.
+delegado 16: recibio cc y clave - continuando
+delegado 16: envio valor 16435300 al cliente. continuado.
+delegado 16: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 17: recibio-HOLA-continuando.
+delegado 17: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 17: envio certificado del servidor. continuando.
+delegado 17: recibio y creo llave simetrica. continuando.
+delegado 17: recibio confirmacion del cliente:OK-continuado.
+delegado 17: recibio cc y clave - continuando
+delegado 17: envio valor 10426900 al cliente. continuado.
+delegado 17: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 18: recibio-HOLA-continuando.
+delegado 18: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 18: envio certificado del servidor. continuando.
+delegado 18: recibio y creo llave simetrica. continuando.
+delegado 18: recibio confirmacion del cliente:OK-continuado.
+delegado 18: recibio cc y clave - continuando
+delegado 18: envio valor 89773100 al cliente. continuado.
+delegado 18: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 19: recibio-HOLA-continuando.
+delegado 19: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 19: envio certificado del servidor. continuando.
+delegado 19: recibio y creo llave simetrica. continuando.
+delegado 19: recibio confirmacion del cliente:OK-continuado.
+delegado 19: recibio cc y clave - continuando
+delegado 19: envio valor 55125300 al cliente. continuado.
+delegado 19: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 20: recibio-HOLA-continuando.
+delegado 20: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 20: envio certificado del servidor. continuando.
+delegado 20: recibio y creo llave simetrica. continuando.
+delegado 20: recibio confirmacion del cliente:OK-continuado.
+delegado 20: recibio cc y clave - continuando
+delegado 20: envio valor 62884800 al cliente. continuado.
+delegado 20: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 21: recibio-HOLA-continuando.
+delegado 21: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 21: envio certificado del servidor. continuando.
+delegado 21: recibio y creo llave simetrica. continuando.
+delegado 21: recibio confirmacion del cliente:OK-continuado.
+delegado 21: recibio cc y clave - continuando
+delegado 21: envio valor 83237400 al cliente. continuado.
+delegado 21: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 22: recibio-HOLA-continuando.
+delegado 22: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 22: envio certificado del servidor. continuando.
+delegado 22: recibio y creo llave simetrica. continuando.
+delegado 22: recibio confirmacion del cliente:OK-continuado.
+delegado 22: recibio cc y clave - continuando
+delegado 22: envio valor 15568600 al cliente. continuado.
+delegado 22: Terminando exitosamente.OK
+TTMS: 121
+//
+delegado 23: recibio-HOLA-continuando.
+delegado 23: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 23: envio certificado del servidor. continuando.
+delegado 23: recibio y creo llave simetrica. continuando.
+delegado 23: recibio confirmacion del cliente:OK-continuado.
+delegado 23: recibio cc y clave - continuando
+delegado 23: envio valor 76127500 al cliente. continuado.
+delegado 23: Terminando exitosamente.OK
+TTMS: 121
+//
+delegado 24: recibio-HOLA-continuando.
+delegado 24: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 24: envio certificado del servidor. continuando.
+delegado 24: recibio y creo llave simetrica. continuando.
+delegado 24: recibio confirmacion del cliente:OK-continuado.
+delegado 24: recibio cc y clave - continuando
+delegado 24: envio valor 65927700 al cliente. continuado.
+delegado 24: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 25: recibio-HOLA-continuando.
+delegado 25: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 25: envio certificado del servidor. continuando.
+delegado 25: recibio y creo llave simetrica. continuando.
+delegado 25: recibio confirmacion del cliente:OK-continuado.
+delegado 25: recibio cc y clave - continuando
+delegado 25: envio valor 20420000 al cliente. continuado.
+delegado 25: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 26: recibio-HOLA-continuando.
+delegado 26: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 26: envio certificado del servidor. continuando.
+delegado 26: recibio y creo llave simetrica. continuando.
+delegado 26: recibio confirmacion del cliente:OK-continuado.
+delegado 26: recibio cc y clave - continuando
+delegado 26: envio valor 66438600 al cliente. continuado.
+delegado 26: Terminando exitosamente.OK
+TTMS: 134
+//
+delegado 27: recibio-HOLA-continuando.
+delegado 27: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 27: envio certificado del servidor. continuando.
+delegado 27: recibio y creo llave simetrica. continuando.
+delegado 27: recibio confirmacion del cliente:OK-continuado.
+delegado 27: recibio cc y clave - continuando
+delegado 27: envio valor 59662300 al cliente. continuado.
+delegado 27: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 28: recibio-HOLA-continuando.
+delegado 28: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 28: envio certificado del servidor. continuando.
+delegado 28: recibio y creo llave simetrica. continuando.
+delegado 28: recibio confirmacion del cliente:OK-continuado.
+delegado 28: recibio cc y clave - continuando
+delegado 28: envio valor 23441600 al cliente. continuado.
+delegado 28: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 29: recibio-HOLA-continuando.
+delegado 29: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 29: envio certificado del servidor. continuando.
+delegado 29: recibio y creo llave simetrica. continuando.
+delegado 29: recibio confirmacion del cliente:OK-continuado.
+delegado 29: recibio cc y clave - continuando
+delegado 29: envio valor 91647300 al cliente. continuado.
+delegado 29: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 30: recibio-HOLA-continuando.
+delegado 30: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 30: envio certificado del servidor. continuando.
+delegado 30: recibio y creo llave simetrica. continuando.
+delegado 30: recibio confirmacion del cliente:OK-continuado.
+delegado 30: recibio cc y clave - continuando
+delegado 30: envio valor 90160500 al cliente. continuado.
+delegado 30: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 31: recibio-HOLA-continuando.
+delegado 31: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 31: envio certificado del servidor. continuando.
+delegado 31: recibio y creo llave simetrica. continuando.
+delegado 31: recibio confirmacion del cliente:OK-continuado.
+delegado 31: recibio cc y clave - continuando
+delegado 31: envio valor 64289900 al cliente. continuado.
+delegado 31: Terminando exitosamente.OK
+TTMS: 126
+//
+delegado 32: recibio-HOLA-continuando.
+delegado 32: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 32: envio certificado del servidor. continuando.
+delegado 32: recibio y creo llave simetrica. continuando.
+delegado 32: recibio confirmacion del cliente:OK-continuado.
+delegado 32: recibio cc y clave - continuando
+delegado 32: envio valor 61965300 al cliente. continuado.
+delegado 32: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 33: recibio-HOLA-continuando.
+delegado 33: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 33: envio certificado del servidor. continuando.
+delegado 33: recibio y creo llave simetrica. continuando.
+delegado 33: recibio confirmacion del cliente:OK-continuado.
+delegado 33: recibio cc y clave - continuando
+delegado 33: envio valor 61957300 al cliente. continuado.
+delegado 33: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 34: recibio-HOLA-continuando.
+delegado 34: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 34: envio certificado del servidor. continuando.
+delegado 34: recibio y creo llave simetrica. continuando.
+delegado 34: recibio confirmacion del cliente:OK-continuado.
+delegado 34: recibio cc y clave - continuando
+delegado 34: envio valor 93288700 al cliente. continuado.
+delegado 34: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 35: recibio-HOLA-continuando.
+delegado 35: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 35: envio certificado del servidor. continuando.
+delegado 35: recibio y creo llave simetrica. continuando.
+delegado 35: recibio confirmacion del cliente:OK-continuado.
+delegado 35: recibio cc y clave - continuando
+delegado 35: envio valor 12661600 al cliente. continuado.
+delegado 35: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 36: recibio-HOLA-continuando.
+delegado 36: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 36: envio certificado del servidor. continuando.
+delegado 36: recibio y creo llave simetrica. continuando.
+delegado 36: recibio confirmacion del cliente:OK-continuado.
+delegado 36: recibio cc y clave - continuando
+delegado 36: envio valor 71340300 al cliente. continuado.
+delegado 36: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 37: recibio-HOLA-continuando.
+delegado 37: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 37: envio certificado del servidor. continuando.
+delegado 37: recibio y creo llave simetrica. continuando.
+delegado 37: recibio confirmacion del cliente:OK-continuado.
+delegado 37: recibio cc y clave - continuando
+delegado 37: envio valor 93509700 al cliente. continuado.
+delegado 37: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 38: recibio-HOLA-continuando.
+delegado 38: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 38: envio certificado del servidor. continuando.
+delegado 38: recibio y creo llave simetrica. continuando.
+delegado 38: recibio confirmacion del cliente:OK-continuado.
+delegado 38: recibio cc y clave - continuando
+delegado 38: envio valor 58559800 al cliente. continuado.
+delegado 38: Terminando exitosamente.OK
+TTMS: 121
+//
+delegado 39: recibio-HOLA-continuando.
+delegado 39: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 39: envio certificado del servidor. continuando.
+delegado 39: recibio y creo llave simetrica. continuando.
+delegado 39: recibio confirmacion del cliente:OK-continuado.
+delegado 39: recibio cc y clave - continuando
+delegado 39: envio valor 76899700 al cliente. continuado.
+delegado 39: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 40: recibio-HOLA-continuando.
+delegado 40: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 40: envio certificado del servidor. continuando.
+delegado 40: recibio y creo llave simetrica. continuando.
+delegado 40: recibio confirmacion del cliente:OK-continuado.
+delegado 40: recibio cc y clave - continuando
+delegado 40: envio valor 19468100 al cliente. continuado.
+delegado 40: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 41: recibio-HOLA-continuando.
+delegado 41: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 41: envio certificado del servidor. continuando.
+delegado 41: recibio y creo llave simetrica. continuando.
+delegado 41: recibio confirmacion del cliente:OK-continuado.
+delegado 41: recibio cc y clave - continuando
+delegado 41: envio valor 43443500 al cliente. continuado.
+delegado 41: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 42: recibio-HOLA-continuando.
+delegado 42: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 42: envio certificado del servidor. continuando.
+delegado 42: recibio y creo llave simetrica. continuando.
+delegado 42: recibio confirmacion del cliente:OK-continuado.
+delegado 42: recibio cc y clave - continuando
+delegado 42: envio valor 78440000 al cliente. continuado.
+delegado 42: Terminando exitosamente.OK
+TTMS: 121
+//
+delegado 43: recibio-HOLA-continuando.
+delegado 43: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 43: envio certificado del servidor. continuando.
+delegado 43: recibio y creo llave simetrica. continuando.
+delegado 43: recibio confirmacion del cliente:OK-continuado.
+delegado 43: recibio cc y clave - continuando
+delegado 43: envio valor 40401500 al cliente. continuado.
+delegado 43: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 44: recibio-HOLA-continuando.
+delegado 44: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 44: envio certificado del servidor. continuando.
+delegado 44: recibio y creo llave simetrica. continuando.
+delegado 44: recibio confirmacion del cliente:OK-continuado.
+delegado 44: recibio cc y clave - continuando
+delegado 44: envio valor 62054200 al cliente. continuado.
+delegado 44: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 45: recibio-HOLA-continuando.
+delegado 45: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 45: envio certificado del servidor. continuando.
+delegado 45: recibio y creo llave simetrica. continuando.
+delegado 45: recibio confirmacion del cliente:OK-continuado.
+delegado 45: recibio cc y clave - continuando
+delegado 45: envio valor 56434900 al cliente. continuado.
+delegado 45: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 46: recibio-HOLA-continuando.
+delegado 46: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 46: envio certificado del servidor. continuando.
+delegado 46: recibio y creo llave simetrica. continuando.
+delegado 46: recibio confirmacion del cliente:OK-continuado.
+delegado 46: recibio cc y clave - continuando
+delegado 46: envio valor 83277100 al cliente. continuado.
+delegado 46: Terminando exitosamente.OK
+TTMS: 139
+//
+delegado 47: recibio-HOLA-continuando.
+delegado 47: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 47: envio certificado del servidor. continuando.
+delegado 47: recibio y creo llave simetrica. continuando.
+delegado 47: recibio confirmacion del cliente:OK-continuado.
+delegado 47: recibio cc y clave - continuando
+delegado 47: envio valor 83569800 al cliente. continuado.
+delegado 47: Terminando exitosamente.OK
+TTMS: 121
+//
+delegado 48: recibio-HOLA-continuando.
+delegado 48: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 48: envio certificado del servidor. continuando.
+delegado 48: recibio y creo llave simetrica. continuando.
+delegado 48: recibio confirmacion del cliente:OK-continuado.
+delegado 48: recibio cc y clave - continuando
+delegado 48: envio valor 48519000 al cliente. continuado.
+delegado 48: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 49: recibio-HOLA-continuando.
+delegado 49: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 49: envio certificado del servidor. continuando.
+delegado 49: recibio y creo llave simetrica. continuando.
+delegado 49: recibio confirmacion del cliente:OK-continuado.
+delegado 49: recibio cc y clave - continuando
+delegado 49: envio valor 47809500 al cliente. continuado.
+delegado 49: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 50: recibio-HOLA-continuando.
+delegado 50: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 50: envio certificado del servidor. continuando.
+delegado 50: recibio y creo llave simetrica. continuando.
+delegado 50: recibio confirmacion del cliente:OK-continuado.
+delegado 50: recibio cc y clave - continuando
+delegado 50: envio valor 23665400 al cliente. continuado.
+delegado 50: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 51: recibio-HOLA-continuando.
+delegado 51: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 51: envio certificado del servidor. continuando.
+delegado 51: recibio y creo llave simetrica. continuando.
+delegado 51: recibio confirmacion del cliente:OK-continuado.
+delegado 51: recibio cc y clave - continuando
+delegado 51: envio valor 33237300 al cliente. continuado.
+delegado 51: Terminando exitosamente.OK
+TTMS: 131
+//
+delegado 52: recibio-HOLA-continuando.
+delegado 52: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 52: envio certificado del servidor. continuando.
+delegado 52: recibio y creo llave simetrica. continuando.
+delegado 52: recibio confirmacion del cliente:OK-continuado.
+delegado 52: recibio cc y clave - continuando
+delegado 52: envio valor 93129400 al cliente. continuado.
+delegado 52: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 53: recibio-HOLA-continuando.
+delegado 53: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 53: envio certificado del servidor. continuando.
+delegado 53: recibio y creo llave simetrica. continuando.
+delegado 53: recibio confirmacion del cliente:OK-continuado.
+delegado 53: recibio cc y clave - continuando
+delegado 53: envio valor 37780000 al cliente. continuado.
+delegado 53: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 54: recibio-HOLA-continuando.
+delegado 54: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 54: envio certificado del servidor. continuando.
+delegado 54: recibio y creo llave simetrica. continuando.
+delegado 54: recibio confirmacion del cliente:OK-continuado.
+delegado 54: recibio cc y clave - continuando
+delegado 54: envio valor 63191000 al cliente. continuado.
+delegado 54: Terminando exitosamente.OK
+TTMS: 133
+//
+delegado 55: recibio-HOLA-continuando.
+delegado 55: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 55: envio certificado del servidor. continuando.
+delegado 55: recibio y creo llave simetrica. continuando.
+delegado 55: recibio confirmacion del cliente:OK-continuado.
+delegado 55: recibio cc y clave - continuando
+delegado 55: envio valor 65378900 al cliente. continuado.
+delegado 55: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 56: recibio-HOLA-continuando.
+delegado 56: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 56: envio certificado del servidor. continuando.
+delegado 56: recibio y creo llave simetrica. continuando.
+delegado 56: recibio confirmacion del cliente:OK-continuado.
+delegado 56: recibio cc y clave - continuando
+delegado 56: envio valor 39965300 al cliente. continuado.
+delegado 56: Terminando exitosamente.OK
+TTMS: 126
+//
+delegado 57: recibio-HOLA-continuando.
+delegado 57: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 57: envio certificado del servidor. continuando.
+delegado 57: recibio y creo llave simetrica. continuando.
+delegado 57: recibio confirmacion del cliente:OK-continuado.
+delegado 57: recibio cc y clave - continuando
+delegado 57: envio valor 40255000 al cliente. continuado.
+delegado 57: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 58: recibio-HOLA-continuando.
+delegado 58: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 58: envio certificado del servidor. continuando.
+delegado 58: recibio y creo llave simetrica. continuando.
+delegado 58: recibio confirmacion del cliente:OK-continuado.
+delegado 58: recibio cc y clave - continuando
+delegado 58: envio valor 17603700 al cliente. continuado.
+delegado 58: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 59: recibio-HOLA-continuando.
+delegado 59: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 59: envio certificado del servidor. continuando.
+delegado 59: recibio y creo llave simetrica. continuando.
+delegado 59: recibio confirmacion del cliente:OK-continuado.
+delegado 59: recibio cc y clave - continuando
+delegado 59: envio valor 38906700 al cliente. continuado.
+delegado 59: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 60: recibio-HOLA-continuando.
+delegado 60: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 60: envio certificado del servidor. continuando.
+delegado 60: recibio y creo llave simetrica. continuando.
+delegado 60: recibio confirmacion del cliente:OK-continuado.
+delegado 60: recibio cc y clave - continuando
+delegado 60: envio valor 34748800 al cliente. continuado.
+delegado 60: Terminando exitosamente.OK
+TTMS: 127
+//
+delegado 61: recibio-HOLA-continuando.
+delegado 61: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 61: envio certificado del servidor. continuando.
+delegado 61: recibio y creo llave simetrica. continuando.
+delegado 61: recibio confirmacion del cliente:OK-continuado.
+delegado 61: recibio cc y clave - continuando
+delegado 61: envio valor 18812400 al cliente. continuado.
+delegado 61: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 62: recibio-HOLA-continuando.
+delegado 62: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 62: envio certificado del servidor. continuando.
+delegado 62: recibio y creo llave simetrica. continuando.
+delegado 62: recibio confirmacion del cliente:OK-continuado.
+delegado 62: recibio cc y clave - continuando
+delegado 62: envio valor 93390900 al cliente. continuado.
+delegado 62: Terminando exitosamente.OK
+TTMS: 129
+//
+delegado 63: recibio-HOLA-continuando.
+delegado 63: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 63: envio certificado del servidor. continuando.
+delegado 63: recibio y creo llave simetrica. continuando.
+delegado 63: recibio confirmacion del cliente:OK-continuado.
+delegado 63: recibio cc y clave - continuando
+delegado 63: envio valor 62230500 al cliente. continuado.
+delegado 63: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 64: recibio-HOLA-continuando.
+delegado 64: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 64: envio certificado del servidor. continuando.
+delegado 64: recibio y creo llave simetrica. continuando.
+delegado 64: recibio confirmacion del cliente:OK-continuado.
+delegado 64: recibio cc y clave - continuando
+delegado 64: envio valor 56151000 al cliente. continuado.
+delegado 64: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 65: recibio-HOLA-continuando.
+delegado 65: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 65: envio certificado del servidor. continuando.
+delegado 65: recibio y creo llave simetrica. continuando.
+delegado 65: recibio confirmacion del cliente:OK-continuado.
+delegado 65: recibio cc y clave - continuando
+delegado 65: envio valor 31539500 al cliente. continuado.
+delegado 65: Terminando exitosamente.OK
+TTMS: 121
+//
+delegado 66: recibio-HOLA-continuando.
+delegado 66: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 66: envio certificado del servidor. continuando.
+delegado 66: recibio y creo llave simetrica. continuando.
+delegado 66: recibio confirmacion del cliente:OK-continuado.
+delegado 66: recibio cc y clave - continuando
+delegado 66: envio valor 43357100 al cliente. continuado.
+delegado 66: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 67: recibio-HOLA-continuando.
+delegado 67: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 67: envio certificado del servidor. continuando.
+delegado 67: recibio y creo llave simetrica. continuando.
+delegado 67: recibio confirmacion del cliente:OK-continuado.
+delegado 67: recibio cc y clave - continuando
+delegado 67: envio valor 88057500 al cliente. continuado.
+delegado 67: Terminando exitosamente.OK
+TTMS: 127
+//
+delegado 68: recibio-HOLA-continuando.
+delegado 68: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 68: envio certificado del servidor. continuando.
+delegado 68: recibio y creo llave simetrica. continuando.
+delegado 68: recibio confirmacion del cliente:OK-continuado.
+delegado 68: recibio cc y clave - continuando
+delegado 68: envio valor 89297700 al cliente. continuado.
+delegado 68: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 69: recibio-HOLA-continuando.
+delegado 69: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 69: envio certificado del servidor. continuando.
+delegado 69: recibio y creo llave simetrica. continuando.
+delegado 69: recibio confirmacion del cliente:OK-continuado.
+delegado 69: recibio cc y clave - continuando
+delegado 69: envio valor 96773000 al cliente. continuado.
+delegado 69: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 70: recibio-HOLA-continuando.
+delegado 70: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 70: envio certificado del servidor. continuando.
+delegado 70: recibio y creo llave simetrica. continuando.
+delegado 70: recibio confirmacion del cliente:OK-continuado.
+delegado 70: recibio cc y clave - continuando
+delegado 70: envio valor 47452300 al cliente. continuado.
+delegado 70: Terminando exitosamente.OK
+TTMS: 126
+//
+delegado 71: recibio-HOLA-continuando.
+delegado 71: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 71: envio certificado del servidor. continuando.
+delegado 71: recibio y creo llave simetrica. continuando.
+delegado 71: recibio confirmacion del cliente:OK-continuado.
+delegado 71: recibio cc y clave - continuando
+delegado 71: envio valor 55645800 al cliente. continuado.
+delegado 71: Terminando exitosamente.OK
+TTMS: 126
+//
+delegado 72: recibio-HOLA-continuando.
+delegado 72: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 72: envio certificado del servidor. continuando.
+delegado 72: recibio y creo llave simetrica. continuando.
+delegado 72: recibio confirmacion del cliente:OK-continuado.
+delegado 72: recibio cc y clave - continuando
+delegado 72: envio valor 64137000 al cliente. continuado.
+delegado 72: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 73: recibio-HOLA-continuando.
+delegado 73: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 73: envio certificado del servidor. continuando.
+delegado 73: recibio y creo llave simetrica. continuando.
+delegado 73: recibio confirmacion del cliente:OK-continuado.
+delegado 73: recibio cc y clave - continuando
+delegado 73: envio valor 94828100 al cliente. continuado.
+delegado 73: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 74: recibio-HOLA-continuando.
+delegado 74: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 74: envio certificado del servidor. continuando.
+delegado 74: recibio y creo llave simetrica. continuando.
+delegado 74: recibio confirmacion del cliente:OK-continuado.
+delegado 74: recibio cc y clave - continuando
+delegado 74: envio valor 73369900 al cliente. continuado.
+delegado 74: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 75: recibio-HOLA-continuando.
+delegado 75: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 75: envio certificado del servidor. continuando.
+delegado 75: recibio y creo llave simetrica. continuando.
+delegado 75: recibio confirmacion del cliente:OK-continuado.
+delegado 75: recibio cc y clave - continuando
+delegado 75: envio valor 43375200 al cliente. continuado.
+delegado 75: Terminando exitosamente.OK
+TTMS: 131
+//
+delegado 76: recibio-HOLA-continuando.
+delegado 76: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 76: envio certificado del servidor. continuando.
+delegado 76: recibio y creo llave simetrica. continuando.
+delegado 76: recibio confirmacion del cliente:OK-continuado.
+delegado 76: recibio cc y clave - continuando
+delegado 76: envio valor 42600600 al cliente. continuado.
+delegado 76: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 77: recibio-HOLA-continuando.
+delegado 77: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 77: envio certificado del servidor. continuando.
+delegado 77: recibio y creo llave simetrica. continuando.
+delegado 77: recibio confirmacion del cliente:OK-continuado.
+delegado 77: recibio cc y clave - continuando
+delegado 77: envio valor 5283 al cliente. continuado.
+delegado 77: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 78: recibio-HOLA-continuando.
+delegado 78: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 78: envio certificado del servidor. continuando.
+delegado 78: recibio y creo llave simetrica. continuando.
+delegado 78: recibio confirmacion del cliente:OK-continuado.
+delegado 78: recibio cc y clave - continuando
+delegado 78: envio valor 84852000 al cliente. continuado.
+delegado 78: Terminando exitosamente.OK
+TTMS: 129
+//
+delegado 79: recibio-HOLA-continuando.
+delegado 79: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 79: envio certificado del servidor. continuando.
+delegado 79: recibio y creo llave simetrica. continuando.
+delegado 79: recibio confirmacion del cliente:OK-continuado.
+delegado 79: recibio cc y clave - continuando
+delegado 79: envio valor 84033200 al cliente. continuado.
+delegado 79: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 80: recibio-HOLA-continuando.
+delegado 80: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 80: envio certificado del servidor. continuando.
+delegado 80: recibio y creo llave simetrica. continuando.
+delegado 80: recibio confirmacion del cliente:OK-continuado.
+delegado 80: recibio cc y clave - continuando
+delegado 80: envio valor 32511800 al cliente. continuado.
+delegado 80: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 81: recibio-HOLA-continuando.
+delegado 81: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 81: envio certificado del servidor. continuando.
+delegado 81: recibio y creo llave simetrica. continuando.
+delegado 81: recibio confirmacion del cliente:OK-continuado.
+delegado 81: recibio cc y clave - continuando
+delegado 81: envio valor 61566900 al cliente. continuado.
+delegado 81: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 82: recibio-HOLA-continuando.
+delegado 82: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 82: envio certificado del servidor. continuando.
+delegado 82: recibio y creo llave simetrica. continuando.
+delegado 82: recibio confirmacion del cliente:OK-continuado.
+delegado 82: recibio cc y clave - continuando
+delegado 82: envio valor 42379300 al cliente. continuado.
+delegado 82: Terminando exitosamente.OK
+TTMS: 126
+//
+delegado 83: recibio-HOLA-continuando.
+delegado 83: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 83: envio certificado del servidor. continuando.
+delegado 83: recibio y creo llave simetrica. continuando.
+delegado 83: recibio confirmacion del cliente:OK-continuado.
+delegado 83: recibio cc y clave - continuando
+delegado 83: envio valor 67953600 al cliente. continuado.
+delegado 83: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 84: recibio-HOLA-continuando.
+delegado 84: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 84: envio certificado del servidor. continuando.
+delegado 84: recibio y creo llave simetrica. continuando.
+delegado 84: recibio confirmacion del cliente:OK-continuado.
+delegado 84: recibio cc y clave - continuando
+delegado 84: envio valor 46690800 al cliente. continuado.
+delegado 84: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 85: recibio-HOLA-continuando.
+delegado 85: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 85: envio certificado del servidor. continuando.
+delegado 85: recibio y creo llave simetrica. continuando.
+delegado 85: recibio confirmacion del cliente:OK-continuado.
+delegado 85: recibio cc y clave - continuando
+delegado 85: envio valor 43068800 al cliente. continuado.
+delegado 85: Terminando exitosamente.OK
+TTMS: 137
+//
+delegado 86: recibio-HOLA-continuando.
+delegado 86: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 86: envio certificado del servidor. continuando.
+delegado 86: recibio y creo llave simetrica. continuando.
+delegado 86: recibio confirmacion del cliente:OK-continuado.
+delegado 86: recibio cc y clave - continuando
+delegado 86: envio valor 35309800 al cliente. continuado.
+delegado 86: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 87: recibio-HOLA-continuando.
+delegado 87: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 87: envio certificado del servidor. continuando.
+delegado 87: recibio y creo llave simetrica. continuando.
+delegado 87: recibio confirmacion del cliente:OK-continuado.
+delegado 87: recibio cc y clave - continuando
+delegado 87: envio valor 75670400 al cliente. continuado.
+delegado 87: Terminando exitosamente.OK
+TTMS: 127
+//
+delegado 88: recibio-HOLA-continuando.
+delegado 88: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 88: envio certificado del servidor. continuando.
+delegado 88: recibio y creo llave simetrica. continuando.
+delegado 88: recibio confirmacion del cliente:OK-continuado.
+delegado 88: recibio cc y clave - continuando
+delegado 88: envio valor 50582500 al cliente. continuado.
+delegado 88: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 89: recibio-HOLA-continuando.
+delegado 89: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 89: envio certificado del servidor. continuando.
+delegado 89: recibio y creo llave simetrica. continuando.
+delegado 89: recibio confirmacion del cliente:OK-continuado.
+delegado 89: recibio cc y clave - continuando
+delegado 89: envio valor 95576000 al cliente. continuado.
+delegado 89: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 90: recibio-HOLA-continuando.
+delegado 90: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 90: envio certificado del servidor. continuando.
+delegado 90: recibio y creo llave simetrica. continuando.
+delegado 90: recibio confirmacion del cliente:OK-continuado.
+delegado 90: recibio cc y clave - continuando
+delegado 90: envio valor 60963800 al cliente. continuado.
+delegado 90: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 91: recibio-HOLA-continuando.
+delegado 91: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 91: envio certificado del servidor. continuando.
+delegado 91: recibio y creo llave simetrica. continuando.
+delegado 91: recibio confirmacion del cliente:OK-continuado.
+delegado 91: recibio cc y clave - continuando
+delegado 91: envio valor 67579800 al cliente. continuado.
+delegado 91: Terminando exitosamente.OK
+TTMS: 121
+//
+delegado 92: recibio-HOLA-continuando.
+delegado 92: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 92: envio certificado del servidor. continuando.
+delegado 92: recibio y creo llave simetrica. continuando.
+delegado 92: recibio confirmacion del cliente:OK-continuado.
+delegado 92: recibio cc y clave - continuando
+delegado 92: envio valor 96231000 al cliente. continuado.
+delegado 92: Terminando exitosamente.OK
+TTMS: 126
+//
+delegado 93: recibio-HOLA-continuando.
+delegado 93: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 93: envio certificado del servidor. continuando.
+delegado 93: recibio y creo llave simetrica. continuando.
+delegado 93: recibio confirmacion del cliente:OK-continuado.
+delegado 93: recibio cc y clave - continuando
+delegado 93: envio valor 88084600 al cliente. continuado.
+delegado 93: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 94: recibio-HOLA-continuando.
+delegado 94: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 94: envio certificado del servidor. continuando.
+delegado 94: recibio y creo llave simetrica. continuando.
+delegado 94: recibio confirmacion del cliente:OK-continuado.
+delegado 94: recibio cc y clave - continuando
+delegado 94: envio valor 96700700 al cliente. continuado.
+delegado 94: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 95: recibio-HOLA-continuando.
+delegado 95: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 95: envio certificado del servidor. continuando.
+delegado 95: recibio y creo llave simetrica. continuando.
+delegado 95: recibio confirmacion del cliente:OK-continuado.
+delegado 95: recibio cc y clave - continuando
+delegado 95: envio valor 74114900 al cliente. continuado.
+delegado 95: Terminando exitosamente.OK
+TTMS: 126
+//
+delegado 96: recibio-HOLA-continuando.
+delegado 96: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 96: envio certificado del servidor. continuando.
+delegado 96: recibio y creo llave simetrica. continuando.
+delegado 96: recibio confirmacion del cliente:OK-continuado.
+delegado 96: recibio cc y clave - continuando
+delegado 96: envio valor 15131700 al cliente. continuado.
+delegado 96: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 97: recibio-HOLA-continuando.
+delegado 97: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 97: envio certificado del servidor. continuando.
+delegado 97: recibio y creo llave simetrica. continuando.
+delegado 97: recibio confirmacion del cliente:OK-continuado.
+delegado 97: recibio cc y clave - continuando
+delegado 97: envio valor 91028800 al cliente. continuado.
+delegado 97: Terminando exitosamente.OK
+TTMS: 129
+//
+delegado 98: recibio-HOLA-continuando.
+delegado 98: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 98: envio certificado del servidor. continuando.
+delegado 98: recibio y creo llave simetrica. continuando.
+delegado 98: recibio confirmacion del cliente:OK-continuado.
+delegado 98: recibio cc y clave - continuando
+delegado 98: envio valor 10602000 al cliente. continuado.
+delegado 98: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 99: recibio-HOLA-continuando.
+delegado 99: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 99: envio certificado del servidor. continuando.
+delegado 99: recibio y creo llave simetrica. continuando.
+delegado 99: recibio confirmacion del cliente:OK-continuado.
+delegado 99: recibio cc y clave - continuando
+delegado 99: envio valor 81726000 al cliente. continuado.
+delegado 99: Terminando exitosamente.OK
+TTMS: 130
+//
+delegado 100: recibio-HOLA-continuando.
+delegado 100: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 100: envio certificado del servidor. continuando.
+delegado 100: recibio y creo llave simetrica. continuando.
+delegado 100: recibio confirmacion del cliente:OK-continuado.
+delegado 100: recibio cc y clave - continuando
+delegado 100: envio valor 63289000 al cliente. continuado.
+delegado 100: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 101: recibio-HOLA-continuando.
+delegado 101: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 101: envio certificado del servidor. continuando.
+delegado 101: recibio y creo llave simetrica. continuando.
+delegado 101: recibio confirmacion del cliente:OK-continuado.
+delegado 101: recibio cc y clave - continuando
+delegado 101: envio valor 42004000 al cliente. continuado.
+delegado 101: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 102: recibio-HOLA-continuando.
+delegado 102: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 102: envio certificado del servidor. continuando.
+delegado 102: recibio y creo llave simetrica. continuando.
+delegado 102: recibio confirmacion del cliente:OK-continuado.
+delegado 102: recibio cc y clave - continuando
+delegado 102: envio valor 19959500 al cliente. continuado.
+delegado 102: Terminando exitosamente.OK
+TTMS: 127
+//
+delegado 103: recibio-HOLA-continuando.
+delegado 103: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 103: envio certificado del servidor. continuando.
+delegado 103: recibio y creo llave simetrica. continuando.
+delegado 103: recibio confirmacion del cliente:OK-continuado.
+delegado 103: recibio cc y clave - continuando
+delegado 103: envio valor 80415700 al cliente. continuado.
+delegado 103: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 104: recibio-HOLA-continuando.
+delegado 104: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 104: envio certificado del servidor. continuando.
+delegado 104: recibio y creo llave simetrica. continuando.
+delegado 104: recibio confirmacion del cliente:OK-continuado.
+delegado 104: recibio cc y clave - continuando
+delegado 104: envio valor 96896600 al cliente. continuado.
+delegado 104: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 105: recibio-HOLA-continuando.
+delegado 105: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 105: envio certificado del servidor. continuando.
+delegado 105: recibio y creo llave simetrica. continuando.
+delegado 105: recibio confirmacion del cliente:OK-continuado.
+delegado 105: recibio cc y clave - continuando
+delegado 105: envio valor 58494300 al cliente. continuado.
+delegado 105: Terminando exitosamente.OK
+TTMS: 130
+//
+delegado 106: recibio-HOLA-continuando.
+delegado 106: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 106: envio certificado del servidor. continuando.
+delegado 106: recibio y creo llave simetrica. continuando.
+delegado 106: recibio confirmacion del cliente:OK-continuado.
+delegado 106: recibio cc y clave - continuando
+delegado 106: envio valor 47420300 al cliente. continuado.
+delegado 106: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 107: recibio-HOLA-continuando.
+delegado 107: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 107: envio certificado del servidor. continuando.
+delegado 107: recibio y creo llave simetrica. continuando.
+delegado 107: recibio confirmacion del cliente:OK-continuado.
+delegado 107: recibio cc y clave - continuando
+delegado 107: envio valor 95393900 al cliente. continuado.
+delegado 107: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 108: recibio-HOLA-continuando.
+delegado 108: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 108: envio certificado del servidor. continuando.
+delegado 108: recibio y creo llave simetrica. continuando.
+delegado 108: recibio confirmacion del cliente:OK-continuado.
+delegado 108: recibio cc y clave - continuando
+delegado 108: envio valor 56106800 al cliente. continuado.
+delegado 108: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 109: recibio-HOLA-continuando.
+delegado 109: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 109: envio certificado del servidor. continuando.
+delegado 109: recibio y creo llave simetrica. continuando.
+delegado 109: recibio confirmacion del cliente:OK-continuado.
+delegado 109: recibio cc y clave - continuando
+delegado 109: envio valor 73017800 al cliente. continuado.
+delegado 109: Terminando exitosamente.OK
+TTMS: 121
+//
+delegado 110: recibio-HOLA-continuando.
+delegado 110: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 110: envio certificado del servidor. continuando.
+delegado 110: recibio y creo llave simetrica. continuando.
+delegado 110: recibio confirmacion del cliente:OK-continuado.
+delegado 110: recibio cc y clave - continuando
+delegado 110: envio valor 79413000 al cliente. continuado.
+delegado 110: Terminando exitosamente.OK
+TTMS: 126
+//
+delegado 111: recibio-HOLA-continuando.
+delegado 111: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 111: envio certificado del servidor. continuando.
+delegado 111: recibio y creo llave simetrica. continuando.
+delegado 111: recibio confirmacion del cliente:OK-continuado.
+delegado 111: recibio cc y clave - continuando
+delegado 111: envio valor 79392700 al cliente. continuado.
+delegado 111: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 112: recibio-HOLA-continuando.
+delegado 112: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 112: envio certificado del servidor. continuando.
+delegado 112: recibio y creo llave simetrica. continuando.
+delegado 112: recibio confirmacion del cliente:OK-continuado.
+delegado 112: recibio cc y clave - continuando
+delegado 112: envio valor 17375400 al cliente. continuado.
+delegado 112: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 113: recibio-HOLA-continuando.
+delegado 113: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 113: envio certificado del servidor. continuando.
+delegado 113: recibio y creo llave simetrica. continuando.
+delegado 113: recibio confirmacion del cliente:OK-continuado.
+delegado 113: recibio cc y clave - continuando
+delegado 113: envio valor 96963100 al cliente. continuado.
+delegado 113: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 114: recibio-HOLA-continuando.
+delegado 114: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 114: envio certificado del servidor. continuando.
+delegado 114: recibio y creo llave simetrica. continuando.
+delegado 114: recibio confirmacion del cliente:OK-continuado.
+delegado 114: recibio cc y clave - continuando
+delegado 114: envio valor 46611300 al cliente. continuado.
+delegado 114: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 115: recibio-HOLA-continuando.
+delegado 115: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 115: envio certificado del servidor. continuando.
+delegado 115: recibio y creo llave simetrica. continuando.
+delegado 115: recibio confirmacion del cliente:OK-continuado.
+delegado 115: recibio cc y clave - continuando
+delegado 115: envio valor 20662800 al cliente. continuado.
+delegado 115: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 116: recibio-HOLA-continuando.
+delegado 116: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 116: envio certificado del servidor. continuando.
+delegado 116: recibio y creo llave simetrica. continuando.
+delegado 116: recibio confirmacion del cliente:OK-continuado.
+delegado 116: recibio cc y clave - continuando
+delegado 116: envio valor 67515500 al cliente. continuado.
+delegado 116: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 117: recibio-HOLA-continuando.
+delegado 117: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 117: envio certificado del servidor. continuando.
+delegado 117: recibio y creo llave simetrica. continuando.
+delegado 117: recibio confirmacion del cliente:OK-continuado.
+delegado 117: recibio cc y clave - continuando
+delegado 117: envio valor 70295500 al cliente. continuado.
+delegado 117: Terminando exitosamente.OK
+TTMS: 132
+//
+delegado 118: recibio-HOLA-continuando.
+delegado 118: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 118: envio certificado del servidor. continuando.
+delegado 118: recibio y creo llave simetrica. continuando.
+delegado 118: recibio confirmacion del cliente:OK-continuado.
+delegado 118: recibio cc y clave - continuando
+delegado 118: envio valor 91717800 al cliente. continuado.
+delegado 118: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 119: recibio-HOLA-continuando.
+delegado 119: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 119: envio certificado del servidor. continuando.
+delegado 119: recibio y creo llave simetrica. continuando.
+delegado 119: recibio confirmacion del cliente:OK-continuado.
+delegado 119: recibio cc y clave - continuando
+delegado 119: envio valor 42336300 al cliente. continuado.
+delegado 119: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 120: recibio-HOLA-continuando.
+delegado 120: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 120: envio certificado del servidor. continuando.
+delegado 120: recibio y creo llave simetrica. continuando.
+delegado 120: recibio confirmacion del cliente:OK-continuado.
+delegado 120: recibio cc y clave - continuando
+delegado 120: envio valor 75816400 al cliente. continuado.
+delegado 120: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 121: recibio-HOLA-continuando.
+delegado 121: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 121: envio certificado del servidor. continuando.
+delegado 121: recibio y creo llave simetrica. continuando.
+delegado 121: recibio confirmacion del cliente:OK-continuado.
+delegado 121: recibio cc y clave - continuando
+delegado 121: envio valor 66482700 al cliente. continuado.
+delegado 121: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 122: recibio-HOLA-continuando.
+delegado 122: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 122: envio certificado del servidor. continuando.
+delegado 122: recibio y creo llave simetrica. continuando.
+delegado 122: recibio confirmacion del cliente:OK-continuado.
+delegado 122: recibio cc y clave - continuando
+delegado 122: envio valor 85375200 al cliente. continuado.
+delegado 122: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 123: recibio-HOLA-continuando.
+delegado 123: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 123: envio certificado del servidor. continuando.
+delegado 123: recibio y creo llave simetrica. continuando.
+delegado 123: recibio confirmacion del cliente:OK-continuado.
+delegado 123: recibio cc y clave - continuando
+delegado 123: envio valor 60904500 al cliente. continuado.
+delegado 123: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 124: recibio-HOLA-continuando.
+delegado 124: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 124: envio certificado del servidor. continuando.
+delegado 124: recibio y creo llave simetrica. continuando.
+delegado 124: recibio confirmacion del cliente:OK-continuado.
+delegado 124: recibio cc y clave - continuando
+delegado 124: envio valor 50566100 al cliente. continuado.
+delegado 124: Terminando exitosamente.OK
+TTMS: 121
+//
+delegado 125: recibio-HOLA-continuando.
+delegado 125: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 125: envio certificado del servidor. continuando.
+delegado 125: recibio y creo llave simetrica. continuando.
+delegado 125: recibio confirmacion del cliente:OK-continuado.
+delegado 125: recibio cc y clave - continuando
+delegado 125: envio valor 27456000 al cliente. continuado.
+delegado 125: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 126: recibio-HOLA-continuando.
+delegado 126: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 126: envio certificado del servidor. continuando.
+delegado 126: recibio y creo llave simetrica. continuando.
+delegado 126: recibio confirmacion del cliente:OK-continuado.
+delegado 126: recibio cc y clave - continuando
+delegado 126: envio valor 16246300 al cliente. continuado.
+delegado 126: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 127: recibio-HOLA-continuando.
+delegado 127: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 127: envio certificado del servidor. continuando.
+delegado 127: recibio y creo llave simetrica. continuando.
+delegado 127: recibio confirmacion del cliente:OK-continuado.
+delegado 127: recibio cc y clave - continuando
+delegado 127: envio valor 41577800 al cliente. continuado.
+delegado 127: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 128: recibio-HOLA-continuando.
+delegado 128: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 128: envio certificado del servidor. continuando.
+delegado 128: recibio y creo llave simetrica. continuando.
+delegado 128: recibio confirmacion del cliente:OK-continuado.
+delegado 128: recibio cc y clave - continuando
+delegado 128: envio valor 72590100 al cliente. continuado.
+delegado 128: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 129: recibio-HOLA-continuando.
+delegado 129: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 129: envio certificado del servidor. continuando.
+delegado 129: recibio y creo llave simetrica. continuando.
+delegado 129: recibio confirmacion del cliente:OK-continuado.
+delegado 129: recibio cc y clave - continuando
+delegado 129: envio valor 34473100 al cliente. continuado.
+delegado 129: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 130: recibio-HOLA-continuando.
+delegado 130: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 130: envio certificado del servidor. continuando.
+delegado 130: recibio y creo llave simetrica. continuando.
+delegado 130: recibio confirmacion del cliente:OK-continuado.
+delegado 130: recibio cc y clave - continuando
+delegado 130: envio valor 75783300 al cliente. continuado.
+delegado 130: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 131: recibio-HOLA-continuando.
+delegado 131: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 131: envio certificado del servidor. continuando.
+delegado 131: recibio y creo llave simetrica. continuando.
+delegado 131: recibio confirmacion del cliente:OK-continuado.
+delegado 131: recibio cc y clave - continuando
+delegado 131: envio valor 27045400 al cliente. continuado.
+delegado 131: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 132: recibio-HOLA-continuando.
+delegado 132: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 132: envio certificado del servidor. continuando.
+delegado 132: recibio y creo llave simetrica. continuando.
+delegado 132: recibio confirmacion del cliente:OK-continuado.
+delegado 132: recibio cc y clave - continuando
+delegado 132: envio valor 52215800 al cliente. continuado.
+delegado 132: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 133: recibio-HOLA-continuando.
+delegado 133: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 133: envio certificado del servidor. continuando.
+delegado 133: recibio y creo llave simetrica. continuando.
+delegado 133: recibio confirmacion del cliente:OK-continuado.
+delegado 133: recibio cc y clave - continuando
+delegado 133: envio valor 17592600 al cliente. continuado.
+delegado 133: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 134: recibio-HOLA-continuando.
+delegado 134: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 134: envio certificado del servidor. continuando.
+delegado 134: recibio y creo llave simetrica. continuando.
+delegado 134: recibio confirmacion del cliente:OK-continuado.
+delegado 134: recibio cc y clave - continuando
+delegado 134: envio valor 69292100 al cliente. continuado.
+delegado 134: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 135: recibio-HOLA-continuando.
+delegado 135: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 135: envio certificado del servidor. continuando.
+delegado 135: recibio y creo llave simetrica. continuando.
+delegado 135: recibio confirmacion del cliente:OK-continuado.
+delegado 135: recibio cc y clave - continuando
+delegado 135: envio valor 14469000 al cliente. continuado.
+delegado 135: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 136: recibio-HOLA-continuando.
+delegado 136: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 136: envio certificado del servidor. continuando.
+delegado 136: recibio y creo llave simetrica. continuando.
+delegado 136: recibio confirmacion del cliente:OK-continuado.
+delegado 136: recibio cc y clave - continuando
+delegado 136: envio valor 96755500 al cliente. continuado.
+delegado 136: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 137: recibio-HOLA-continuando.
+delegado 137: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 137: envio certificado del servidor. continuando.
+delegado 137: recibio y creo llave simetrica. continuando.
+delegado 137: recibio confirmacion del cliente:OK-continuado.
+delegado 137: recibio cc y clave - continuando
+delegado 137: envio valor 54142800 al cliente. continuado.
+delegado 137: Terminando exitosamente.OK
+TTMS: 121
+//
+delegado 138: recibio-HOLA-continuando.
+delegado 138: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 138: envio certificado del servidor. continuando.
+delegado 138: recibio y creo llave simetrica. continuando.
+delegado 138: recibio confirmacion del cliente:OK-continuado.
+delegado 138: recibio cc y clave - continuando
+delegado 138: envio valor 50358000 al cliente. continuado.
+delegado 138: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 139: recibio-HOLA-continuando.
+delegado 139: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 139: envio certificado del servidor. continuando.
+delegado 139: recibio y creo llave simetrica. continuando.
+delegado 139: recibio confirmacion del cliente:OK-continuado.
+delegado 139: recibio cc y clave - continuando
+delegado 139: envio valor 37385000 al cliente. continuado.
+delegado 139: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 140: recibio-HOLA-continuando.
+delegado 140: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 140: envio certificado del servidor. continuando.
+delegado 140: recibio y creo llave simetrica. continuando.
+delegado 140: recibio confirmacion del cliente:OK-continuado.
+delegado 140: recibio cc y clave - continuando
+delegado 140: envio valor 39193500 al cliente. continuado.
+delegado 140: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 141: recibio-HOLA-continuando.
+delegado 141: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 141: envio certificado del servidor. continuando.
+delegado 141: recibio y creo llave simetrica. continuando.
+delegado 141: recibio confirmacion del cliente:OK-continuado.
+delegado 141: recibio cc y clave - continuando
+delegado 141: envio valor 83578200 al cliente. continuado.
+delegado 141: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 142: recibio-HOLA-continuando.
+delegado 142: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 142: envio certificado del servidor. continuando.
+delegado 142: recibio y creo llave simetrica. continuando.
+delegado 142: recibio confirmacion del cliente:OK-continuado.
+delegado 142: recibio cc y clave - continuando
+delegado 142: envio valor 56310700 al cliente. continuado.
+delegado 142: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 143: recibio-HOLA-continuando.
+delegado 143: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 143: envio certificado del servidor. continuando.
+delegado 143: recibio y creo llave simetrica. continuando.
+delegado 143: recibio confirmacion del cliente:OK-continuado.
+delegado 143: recibio cc y clave - continuando
+delegado 143: envio valor 39922400 al cliente. continuado.
+delegado 143: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 144: recibio-HOLA-continuando.
+delegado 144: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 144: envio certificado del servidor. continuando.
+delegado 144: recibio y creo llave simetrica. continuando.
+delegado 144: recibio confirmacion del cliente:OK-continuado.
+delegado 144: recibio cc y clave - continuando
+delegado 144: envio valor 52902600 al cliente. continuado.
+delegado 144: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 145: recibio-HOLA-continuando.
+delegado 145: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 145: envio certificado del servidor. continuando.
+delegado 145: recibio y creo llave simetrica. continuando.
+delegado 145: recibio confirmacion del cliente:OK-continuado.
+delegado 145: recibio cc y clave - continuando
+delegado 145: envio valor 44392000 al cliente. continuado.
+delegado 145: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 146: recibio-HOLA-continuando.
+delegado 146: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 146: envio certificado del servidor. continuando.
+delegado 146: recibio y creo llave simetrica. continuando.
+delegado 146: recibio confirmacion del cliente:OK-continuado.
+delegado 146: recibio cc y clave - continuando
+delegado 146: envio valor 28057600 al cliente. continuado.
+delegado 146: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 147: recibio-HOLA-continuando.
+delegado 147: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 147: envio certificado del servidor. continuando.
+delegado 147: recibio y creo llave simetrica. continuando.
+delegado 147: recibio confirmacion del cliente:OK-continuado.
+delegado 147: recibio cc y clave - continuando
+delegado 147: envio valor 80560800 al cliente. continuado.
+delegado 147: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 148: recibio-HOLA-continuando.
+delegado 148: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 148: envio certificado del servidor. continuando.
+delegado 148: recibio y creo llave simetrica. continuando.
+delegado 148: recibio confirmacion del cliente:OK-continuado.
+delegado 148: recibio cc y clave - continuando
+delegado 148: envio valor 17093100 al cliente. continuado.
+delegado 148: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 149: recibio-HOLA-continuando.
+delegado 149: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 149: envio certificado del servidor. continuando.
+delegado 149: recibio y creo llave simetrica. continuando.
+delegado 149: recibio confirmacion del cliente:OK-continuado.
+delegado 149: recibio cc y clave - continuando
+delegado 149: envio valor 85433600 al cliente. continuado.
+delegado 149: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 150: recibio-HOLA-continuando.
+delegado 150: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 150: envio certificado del servidor. continuando.
+delegado 150: recibio y creo llave simetrica. continuando.
+delegado 150: recibio confirmacion del cliente:OK-continuado.
+delegado 150: recibio cc y clave - continuando
+delegado 150: envio valor 44409600 al cliente. continuado.
+delegado 150: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 151: recibio-HOLA-continuando.
+delegado 151: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 151: envio certificado del servidor. continuando.
+delegado 151: recibio y creo llave simetrica. continuando.
+delegado 151: recibio confirmacion del cliente:OK-continuado.
+delegado 151: recibio cc y clave - continuando
+delegado 151: envio valor 46396200 al cliente. continuado.
+delegado 151: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 152: recibio-HOLA-continuando.
+delegado 152: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 152: envio certificado del servidor. continuando.
+delegado 152: recibio y creo llave simetrica. continuando.
+delegado 152: recibio confirmacion del cliente:OK-continuado.
+delegado 152: recibio cc y clave - continuando
+delegado 152: envio valor 69046700 al cliente. continuado.
+delegado 152: Terminando exitosamente.OK
+TTMS: 121
+//
+delegado 153: recibio-HOLA-continuando.
+delegado 153: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 153: envio certificado del servidor. continuando.
+delegado 153: recibio y creo llave simetrica. continuando.
+delegado 153: recibio confirmacion del cliente:OK-continuado.
+delegado 153: recibio cc y clave - continuando
+delegado 153: envio valor 39827900 al cliente. continuado.
+delegado 153: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 154: recibio-HOLA-continuando.
+delegado 154: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 154: envio certificado del servidor. continuando.
+delegado 154: recibio y creo llave simetrica. continuando.
+delegado 154: recibio confirmacion del cliente:OK-continuado.
+delegado 154: recibio cc y clave - continuando
+delegado 154: envio valor 11576100 al cliente. continuado.
+delegado 154: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 155: recibio-HOLA-continuando.
+delegado 155: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 155: envio certificado del servidor. continuando.
+delegado 155: recibio y creo llave simetrica. continuando.
+delegado 155: recibio confirmacion del cliente:OK-continuado.
+delegado 155: recibio cc y clave - continuando
+delegado 155: envio valor 88179000 al cliente. continuado.
+delegado 155: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 156: recibio-HOLA-continuando.
+delegado 156: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 156: envio certificado del servidor. continuando.
+delegado 156: recibio y creo llave simetrica. continuando.
+delegado 156: recibio confirmacion del cliente:OK-continuado.
+delegado 156: recibio cc y clave - continuando
+delegado 156: envio valor 13901400 al cliente. continuado.
+delegado 156: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 157: recibio-HOLA-continuando.
+delegado 157: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 157: envio certificado del servidor. continuando.
+delegado 157: recibio y creo llave simetrica. continuando.
+delegado 157: recibio confirmacion del cliente:OK-continuado.
+delegado 157: recibio cc y clave - continuando
+delegado 157: envio valor 23556300 al cliente. continuado.
+delegado 157: Terminando exitosamente.OK
+TTMS: 126
+//
+delegado 158: recibio-HOLA-continuando.
+delegado 158: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 158: envio certificado del servidor. continuando.
+delegado 158: recibio y creo llave simetrica. continuando.
+delegado 158: recibio confirmacion del cliente:OK-continuado.
+delegado 158: recibio cc y clave - continuando
+delegado 158: envio valor 29279800 al cliente. continuado.
+delegado 158: Terminando exitosamente.OK
+TTMS: 129
+//
+delegado 159: recibio-HOLA-continuando.
+delegado 159: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 159: envio certificado del servidor. continuando.
+delegado 159: recibio y creo llave simetrica. continuando.
+delegado 159: recibio confirmacion del cliente:OK-continuado.
+delegado 159: recibio cc y clave - continuando
+delegado 159: envio valor 16005000 al cliente. continuado.
+delegado 159: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 160: recibio-HOLA-continuando.
+delegado 160: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 160: envio certificado del servidor. continuando.
+delegado 160: recibio y creo llave simetrica. continuando.
+delegado 160: recibio confirmacion del cliente:OK-continuado.
+delegado 160: recibio cc y clave - continuando
+delegado 160: envio valor 66405200 al cliente. continuado.
+delegado 160: Terminando exitosamente.OK
+TTMS: 132
+//
+delegado 161: recibio-HOLA-continuando.
+delegado 161: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 161: envio certificado del servidor. continuando.
+delegado 161: recibio y creo llave simetrica. continuando.
+delegado 161: recibio confirmacion del cliente:OK-continuado.
+delegado 161: recibio cc y clave - continuando
+delegado 161: envio valor 67948600 al cliente. continuado.
+delegado 161: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 162: recibio-HOLA-continuando.
+delegado 162: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 162: envio certificado del servidor. continuando.
+delegado 162: recibio y creo llave simetrica. continuando.
+delegado 162: recibio confirmacion del cliente:OK-continuado.
+delegado 162: recibio cc y clave - continuando
+delegado 162: envio valor 46571800 al cliente. continuado.
+delegado 162: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 163: recibio-HOLA-continuando.
+delegado 163: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 163: envio certificado del servidor. continuando.
+delegado 163: recibio y creo llave simetrica. continuando.
+delegado 163: recibio confirmacion del cliente:OK-continuado.
+delegado 163: recibio cc y clave - continuando
+delegado 163: envio valor 65895600 al cliente. continuado.
+delegado 163: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 164: recibio-HOLA-continuando.
+delegado 164: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 164: envio certificado del servidor. continuando.
+delegado 164: recibio y creo llave simetrica. continuando.
+delegado 164: recibio confirmacion del cliente:OK-continuado.
+delegado 164: recibio cc y clave - continuando
+delegado 164: envio valor 79805000 al cliente. continuado.
+delegado 164: Terminando exitosamente.OK
+TTMS: 128
+//
+delegado 165: recibio-HOLA-continuando.
+delegado 165: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 165: envio certificado del servidor. continuando.
+delegado 165: recibio y creo llave simetrica. continuando.
+delegado 165: recibio confirmacion del cliente:OK-continuado.
+delegado 165: recibio cc y clave - continuando
+delegado 165: envio valor 81684100 al cliente. continuado.
+delegado 165: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 166: recibio-HOLA-continuando.
+delegado 166: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 166: envio certificado del servidor. continuando.
+delegado 166: recibio y creo llave simetrica. continuando.
+delegado 166: recibio confirmacion del cliente:OK-continuado.
+delegado 166: recibio cc y clave - continuando
+delegado 166: envio valor 72373700 al cliente. continuado.
+delegado 166: Terminando exitosamente.OK
+TTMS: 126
+//
+delegado 167: recibio-HOLA-continuando.
+delegado 167: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 167: envio certificado del servidor. continuando.
+delegado 167: recibio y creo llave simetrica. continuando.
+delegado 167: recibio confirmacion del cliente:OK-continuado.
+delegado 167: recibio cc y clave - continuando
+delegado 167: envio valor 74625600 al cliente. continuado.
+delegado 167: Terminando exitosamente.OK
+TTMS: 126
+//
+delegado 168: recibio-HOLA-continuando.
+delegado 168: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 168: envio certificado del servidor. continuando.
+delegado 168: recibio y creo llave simetrica. continuando.
+delegado 168: recibio confirmacion del cliente:OK-continuado.
+delegado 168: recibio cc y clave - continuando
+delegado 168: envio valor 37866100 al cliente. continuado.
+delegado 168: Terminando exitosamente.OK
+TTMS: 138
+//
+delegado 169: recibio-HOLA-continuando.
+delegado 169: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 169: envio certificado del servidor. continuando.
+delegado 169: recibio y creo llave simetrica. continuando.
+delegado 169: recibio confirmacion del cliente:OK-continuado.
+delegado 169: recibio cc y clave - continuando
+delegado 169: envio valor 25630700 al cliente. continuado.
+delegado 169: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 170: recibio-HOLA-continuando.
+delegado 170: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 170: envio certificado del servidor. continuando.
+delegado 170: recibio y creo llave simetrica. continuando.
+delegado 170: recibio confirmacion del cliente:OK-continuado.
+delegado 170: recibio cc y clave - continuando
+delegado 170: envio valor 71630800 al cliente. continuado.
+delegado 170: Terminando exitosamente.OK
+TTMS: 128
+//
+delegado 171: recibio-HOLA-continuando.
+delegado 171: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 171: envio certificado del servidor. continuando.
+delegado 171: recibio y creo llave simetrica. continuando.
+delegado 171: recibio confirmacion del cliente:OK-continuado.
+delegado 171: recibio cc y clave - continuando
+delegado 171: envio valor 24667200 al cliente. continuado.
+delegado 171: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 172: recibio-HOLA-continuando.
+delegado 172: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 172: envio certificado del servidor. continuando.
+delegado 172: recibio y creo llave simetrica. continuando.
+delegado 172: recibio confirmacion del cliente:OK-continuado.
+delegado 172: recibio cc y clave - continuando
+delegado 172: envio valor 90726200 al cliente. continuado.
+delegado 172: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 173: recibio-HOLA-continuando.
+delegado 173: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 173: envio certificado del servidor. continuando.
+delegado 173: recibio y creo llave simetrica. continuando.
+delegado 173: recibio confirmacion del cliente:OK-continuado.
+delegado 173: recibio cc y clave - continuando
+delegado 173: envio valor 52039300 al cliente. continuado.
+delegado 173: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 174: recibio-HOLA-continuando.
+delegado 174: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 174: envio certificado del servidor. continuando.
+delegado 174: recibio y creo llave simetrica. continuando.
+delegado 174: recibio confirmacion del cliente:OK-continuado.
+delegado 174: recibio cc y clave - continuando
+delegado 174: envio valor 28101900 al cliente. continuado.
+delegado 174: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 175: recibio-HOLA-continuando.
+delegado 175: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 175: envio certificado del servidor. continuando.
+delegado 175: recibio y creo llave simetrica. continuando.
+delegado 175: recibio confirmacion del cliente:OK-continuado.
+delegado 175: recibio cc y clave - continuando
+delegado 175: envio valor 55037000 al cliente. continuado.
+delegado 175: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 176: recibio-HOLA-continuando.
+delegado 176: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 176: envio certificado del servidor. continuando.
+delegado 176: recibio y creo llave simetrica. continuando.
+delegado 176: recibio confirmacion del cliente:OK-continuado.
+delegado 176: recibio cc y clave - continuando
+delegado 176: envio valor 28972900 al cliente. continuado.
+delegado 176: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 177: recibio-HOLA-continuando.
+delegado 177: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 177: envio certificado del servidor. continuando.
+delegado 177: recibio y creo llave simetrica. continuando.
+delegado 177: recibio confirmacion del cliente:OK-continuado.
+delegado 177: recibio cc y clave - continuando
+delegado 177: envio valor 70347400 al cliente. continuado.
+delegado 177: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 178: recibio-HOLA-continuando.
+delegado 178: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 178: envio certificado del servidor. continuando.
+delegado 178: recibio y creo llave simetrica. continuando.
+delegado 178: recibio confirmacion del cliente:OK-continuado.
+delegado 178: recibio cc y clave - continuando
+delegado 178: envio valor 98493800 al cliente. continuado.
+delegado 178: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 179: recibio-HOLA-continuando.
+delegado 179: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 179: envio certificado del servidor. continuando.
+delegado 179: recibio y creo llave simetrica. continuando.
+delegado 179: recibio confirmacion del cliente:OK-continuado.
+delegado 179: recibio cc y clave - continuando
+delegado 179: envio valor 62572200 al cliente. continuado.
+delegado 179: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 180: recibio-HOLA-continuando.
+delegado 180: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 180: envio certificado del servidor. continuando.
+delegado 180: recibio y creo llave simetrica. continuando.
+delegado 180: recibio confirmacion del cliente:OK-continuado.
+delegado 180: recibio cc y clave - continuando
+delegado 180: envio valor 64423800 al cliente. continuado.
+delegado 180: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 181: recibio-HOLA-continuando.
+delegado 181: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 181: envio certificado del servidor. continuando.
+delegado 181: recibio y creo llave simetrica. continuando.
+delegado 181: recibio confirmacion del cliente:OK-continuado.
+delegado 181: recibio cc y clave - continuando
+delegado 181: envio valor 57297300 al cliente. continuado.
+delegado 181: Terminando exitosamente.OK
+TTMS: 121
+//
+delegado 182: recibio-HOLA-continuando.
+delegado 182: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 182: envio certificado del servidor. continuando.
+delegado 182: recibio y creo llave simetrica. continuando.
+delegado 182: recibio confirmacion del cliente:OK-continuado.
+delegado 182: recibio cc y clave - continuando
+delegado 182: envio valor 85250600 al cliente. continuado.
+delegado 182: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 183: recibio-HOLA-continuando.
+delegado 183: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 183: envio certificado del servidor. continuando.
+delegado 183: recibio y creo llave simetrica. continuando.
+delegado 183: recibio confirmacion del cliente:OK-continuado.
+delegado 183: recibio cc y clave - continuando
+delegado 183: envio valor 95038600 al cliente. continuado.
+delegado 183: Terminando exitosamente.OK
+TTMS: 121
+//
+delegado 184: recibio-HOLA-continuando.
+delegado 184: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 184: envio certificado del servidor. continuando.
+delegado 184: recibio y creo llave simetrica. continuando.
+delegado 184: recibio confirmacion del cliente:OK-continuado.
+delegado 184: recibio cc y clave - continuando
+delegado 184: envio valor 33102000 al cliente. continuado.
+delegado 184: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 185: recibio-HOLA-continuando.
+delegado 185: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 185: envio certificado del servidor. continuando.
+delegado 185: recibio y creo llave simetrica. continuando.
+delegado 185: recibio confirmacion del cliente:OK-continuado.
+delegado 185: recibio cc y clave - continuando
+delegado 185: envio valor 28211500 al cliente. continuado.
+delegado 185: Terminando exitosamente.OK
+TTMS: 129
+//
+delegado 186: recibio-HOLA-continuando.
+delegado 186: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 186: envio certificado del servidor. continuando.
+delegado 186: recibio y creo llave simetrica. continuando.
+delegado 186: recibio confirmacion del cliente:OK-continuado.
+delegado 186: recibio cc y clave - continuando
+delegado 186: envio valor 85519900 al cliente. continuado.
+delegado 186: Terminando exitosamente.OK
+TTMS: 129
+//
+delegado 187: recibio-HOLA-continuando.
+delegado 187: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 187: envio certificado del servidor. continuando.
+delegado 187: recibio y creo llave simetrica. continuando.
+delegado 187: recibio confirmacion del cliente:OK-continuado.
+delegado 187: recibio cc y clave - continuando
+delegado 187: envio valor 91708800 al cliente. continuado.
+delegado 187: Terminando exitosamente.OK
+TTMS: 126
+//
+delegado 188: recibio-HOLA-continuando.
+delegado 188: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 188: envio certificado del servidor. continuando.
+delegado 188: recibio y creo llave simetrica. continuando.
+delegado 188: recibio confirmacion del cliente:OK-continuado.
+delegado 188: recibio cc y clave - continuando
+delegado 188: envio valor 70421700 al cliente. continuado.
+delegado 188: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 189: recibio-HOLA-continuando.
+delegado 189: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 189: envio certificado del servidor. continuando.
+delegado 189: recibio y creo llave simetrica. continuando.
+delegado 189: recibio confirmacion del cliente:OK-continuado.
+delegado 189: recibio cc y clave - continuando
+delegado 189: envio valor 39501600 al cliente. continuado.
+delegado 189: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 190: recibio-HOLA-continuando.
+delegado 190: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 190: envio certificado del servidor. continuando.
+delegado 190: recibio y creo llave simetrica. continuando.
+delegado 190: recibio confirmacion del cliente:OK-continuado.
+delegado 190: recibio cc y clave - continuando
+delegado 190: envio valor 49487300 al cliente. continuado.
+delegado 190: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 191: recibio-HOLA-continuando.
+delegado 191: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 191: envio certificado del servidor. continuando.
+delegado 191: recibio y creo llave simetrica. continuando.
+delegado 191: recibio confirmacion del cliente:OK-continuado.
+delegado 191: recibio cc y clave - continuando
+delegado 191: envio valor 96720600 al cliente. continuado.
+delegado 191: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 192: recibio-HOLA-continuando.
+delegado 192: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 192: envio certificado del servidor. continuando.
+delegado 192: recibio y creo llave simetrica. continuando.
+delegado 192: recibio confirmacion del cliente:OK-continuado.
+delegado 192: recibio cc y clave - continuando
+delegado 192: envio valor 16934000 al cliente. continuado.
+delegado 192: Terminando exitosamente.OK
+TTMS: 126
+//
+delegado 193: recibio-HOLA-continuando.
+delegado 193: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 193: envio certificado del servidor. continuando.
+delegado 193: recibio y creo llave simetrica. continuando.
+delegado 193: recibio confirmacion del cliente:OK-continuado.
+delegado 193: recibio cc y clave - continuando
+delegado 193: envio valor 62171300 al cliente. continuado.
+delegado 193: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 194: recibio-HOLA-continuando.
+delegado 194: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 194: envio certificado del servidor. continuando.
+delegado 194: recibio y creo llave simetrica. continuando.
+delegado 194: recibio confirmacion del cliente:OK-continuado.
+delegado 194: recibio cc y clave - continuando
+delegado 194: envio valor 83863700 al cliente. continuado.
+delegado 194: Terminando exitosamente.OK
+TTMS: 127
+//
+delegado 195: recibio-HOLA-continuando.
+delegado 195: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 195: envio certificado del servidor. continuando.
+delegado 195: recibio y creo llave simetrica. continuando.
+delegado 195: recibio confirmacion del cliente:OK-continuado.
+delegado 195: recibio cc y clave - continuando
+delegado 195: envio valor 76037800 al cliente. continuado.
+delegado 195: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 196: recibio-HOLA-continuando.
+delegado 196: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 196: envio certificado del servidor. continuando.
+delegado 196: recibio y creo llave simetrica. continuando.
+delegado 196: recibio confirmacion del cliente:OK-continuado.
+delegado 196: recibio cc y clave - continuando
+delegado 196: envio valor 99153800 al cliente. continuado.
+delegado 196: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 197: recibio-HOLA-continuando.
+delegado 197: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 197: envio certificado del servidor. continuando.
+delegado 197: recibio y creo llave simetrica. continuando.
+delegado 197: recibio confirmacion del cliente:OK-continuado.
+delegado 197: recibio cc y clave - continuando
+delegado 197: envio valor 85063900 al cliente. continuado.
+delegado 197: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 198: recibio-HOLA-continuando.
+delegado 198: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 198: envio certificado del servidor. continuando.
+delegado 198: recibio y creo llave simetrica. continuando.
+delegado 198: recibio confirmacion del cliente:OK-continuado.
+delegado 198: recibio cc y clave - continuando
+delegado 198: envio valor 55884300 al cliente. continuado.
+delegado 198: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 199: recibio-HOLA-continuando.
+delegado 199: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 199: envio certificado del servidor. continuando.
+delegado 199: recibio y creo llave simetrica. continuando.
+delegado 199: recibio confirmacion del cliente:OK-continuado.
+delegado 199: recibio cc y clave - continuando
+delegado 199: envio valor 36082500 al cliente. continuado.
+delegado 199: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 200: recibio-HOLA-continuando.
+delegado 200: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 200: envio certificado del servidor. continuando.
+delegado 200: recibio y creo llave simetrica. continuando.
+delegado 200: recibio confirmacion del cliente:OK-continuado.
+delegado 200: recibio cc y clave - continuando
+delegado 200: envio valor 87740400 al cliente. continuado.
+delegado 200: Terminando exitosamente.OK
+TTMS: 128
+//
+delegado 201: recibio-HOLA-continuando.
+delegado 201: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 201: envio certificado del servidor. continuando.
+delegado 201: recibio y creo llave simetrica. continuando.
+delegado 201: recibio confirmacion del cliente:OK-continuado.
+delegado 201: recibio cc y clave - continuando
+delegado 201: envio valor 98516700 al cliente. continuado.
+delegado 201: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 202: recibio-HOLA-continuando.
+delegado 202: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 202: envio certificado del servidor. continuando.
+delegado 202: recibio y creo llave simetrica. continuando.
+delegado 202: recibio confirmacion del cliente:OK-continuado.
+delegado 202: recibio cc y clave - continuando
+delegado 202: envio valor 46698000 al cliente. continuado.
+delegado 202: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 203: recibio-HOLA-continuando.
+delegado 203: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 203: envio certificado del servidor. continuando.
+delegado 203: recibio y creo llave simetrica. continuando.
+delegado 203: recibio confirmacion del cliente:OK-continuado.
+delegado 203: recibio cc y clave - continuando
+delegado 203: envio valor 55314700 al cliente. continuado.
+delegado 203: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 204: recibio-HOLA-continuando.
+delegado 204: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 204: envio certificado del servidor. continuando.
+delegado 204: recibio y creo llave simetrica. continuando.
+delegado 204: recibio confirmacion del cliente:OK-continuado.
+delegado 204: recibio cc y clave - continuando
+delegado 204: envio valor 65867600 al cliente. continuado.
+delegado 204: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 205: recibio-HOLA-continuando.
+delegado 205: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 205: envio certificado del servidor. continuando.
+delegado 205: recibio y creo llave simetrica. continuando.
+delegado 205: recibio confirmacion del cliente:OK-continuado.
+delegado 205: recibio cc y clave - continuando
+delegado 205: envio valor 89980500 al cliente. continuado.
+delegado 205: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 206: recibio-HOLA-continuando.
+delegado 206: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 206: envio certificado del servidor. continuando.
+delegado 206: recibio y creo llave simetrica. continuando.
+delegado 206: recibio confirmacion del cliente:OK-continuado.
+delegado 206: recibio cc y clave - continuando
+delegado 206: envio valor 99962000 al cliente. continuado.
+delegado 206: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 207: recibio-HOLA-continuando.
+delegado 207: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 207: envio certificado del servidor. continuando.
+delegado 207: recibio y creo llave simetrica. continuando.
+delegado 207: recibio confirmacion del cliente:OK-continuado.
+delegado 207: recibio cc y clave - continuando
+delegado 207: envio valor 99621700 al cliente. continuado.
+delegado 207: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 208: recibio-HOLA-continuando.
+delegado 208: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 208: envio certificado del servidor. continuando.
+delegado 208: recibio y creo llave simetrica. continuando.
+delegado 208: recibio confirmacion del cliente:OK-continuado.
+delegado 208: recibio cc y clave - continuando
+delegado 208: envio valor 70639000 al cliente. continuado.
+delegado 208: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 209: recibio-HOLA-continuando.
+delegado 209: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 209: envio certificado del servidor. continuando.
+delegado 209: recibio y creo llave simetrica. continuando.
+delegado 209: recibio confirmacion del cliente:OK-continuado.
+delegado 209: recibio cc y clave - continuando
+delegado 209: envio valor 22252200 al cliente. continuado.
+delegado 209: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 210: recibio-HOLA-continuando.
+delegado 210: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 210: envio certificado del servidor. continuando.
+delegado 210: recibio y creo llave simetrica. continuando.
+delegado 210: recibio confirmacion del cliente:OK-continuado.
+delegado 210: recibio cc y clave - continuando
+delegado 210: envio valor 15744400 al cliente. continuado.
+delegado 210: Terminando exitosamente.OK
+TTMS: 121
+//
+delegado 211: recibio-HOLA-continuando.
+delegado 211: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 211: envio certificado del servidor. continuando.
+delegado 211: recibio y creo llave simetrica. continuando.
+delegado 211: recibio confirmacion del cliente:OK-continuado.
+delegado 211: recibio cc y clave - continuando
+delegado 211: envio valor 68359200 al cliente. continuado.
+delegado 211: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 212: recibio-HOLA-continuando.
+delegado 212: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 212: envio certificado del servidor. continuando.
+delegado 212: recibio y creo llave simetrica. continuando.
+delegado 212: recibio confirmacion del cliente:OK-continuado.
+delegado 212: recibio cc y clave - continuando
+delegado 212: envio valor 38907900 al cliente. continuado.
+delegado 212: Terminando exitosamente.OK
+TTMS: 127
+//
+delegado 213: recibio-HOLA-continuando.
+delegado 213: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 213: envio certificado del servidor. continuando.
+delegado 213: recibio y creo llave simetrica. continuando.
+delegado 213: recibio confirmacion del cliente:OK-continuado.
+delegado 213: recibio cc y clave - continuando
+delegado 213: envio valor 20172800 al cliente. continuado.
+delegado 213: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 214: recibio-HOLA-continuando.
+delegado 214: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 214: envio certificado del servidor. continuando.
+delegado 214: recibio y creo llave simetrica. continuando.
+delegado 214: recibio confirmacion del cliente:OK-continuado.
+delegado 214: recibio cc y clave - continuando
+delegado 214: envio valor 61604600 al cliente. continuado.
+delegado 214: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 215: recibio-HOLA-continuando.
+delegado 215: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 215: envio certificado del servidor. continuando.
+delegado 215: recibio y creo llave simetrica. continuando.
+delegado 215: recibio confirmacion del cliente:OK-continuado.
+delegado 215: recibio cc y clave - continuando
+delegado 215: envio valor 32991300 al cliente. continuado.
+delegado 215: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 216: recibio-HOLA-continuando.
+delegado 216: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 216: envio certificado del servidor. continuando.
+delegado 216: recibio y creo llave simetrica. continuando.
+delegado 216: recibio confirmacion del cliente:OK-continuado.
+delegado 216: recibio cc y clave - continuando
+delegado 216: envio valor 42855800 al cliente. continuado.
+delegado 216: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 217: recibio-HOLA-continuando.
+delegado 217: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 217: envio certificado del servidor. continuando.
+delegado 217: recibio y creo llave simetrica. continuando.
+delegado 217: recibio confirmacion del cliente:OK-continuado.
+delegado 217: recibio cc y clave - continuando
+delegado 217: envio valor 15778400 al cliente. continuado.
+delegado 217: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 218: recibio-HOLA-continuando.
+delegado 218: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 218: envio certificado del servidor. continuando.
+delegado 218: recibio y creo llave simetrica. continuando.
+delegado 218: recibio confirmacion del cliente:OK-continuado.
+delegado 218: recibio cc y clave - continuando
+delegado 218: envio valor 64204800 al cliente. continuado.
+delegado 218: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 219: recibio-HOLA-continuando.
+delegado 219: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 219: envio certificado del servidor. continuando.
+delegado 219: recibio y creo llave simetrica. continuando.
+delegado 219: recibio confirmacion del cliente:OK-continuado.
+delegado 219: recibio cc y clave - continuando
+delegado 219: envio valor 34279100 al cliente. continuado.
+delegado 219: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 220: recibio-HOLA-continuando.
+delegado 220: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 220: envio certificado del servidor. continuando.
+delegado 220: recibio y creo llave simetrica. continuando.
+delegado 220: recibio confirmacion del cliente:OK-continuado.
+delegado 220: recibio cc y clave - continuando
+delegado 220: envio valor 84795900 al cliente. continuado.
+delegado 220: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 221: recibio-HOLA-continuando.
+delegado 221: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 221: envio certificado del servidor. continuando.
+delegado 221: recibio y creo llave simetrica. continuando.
+delegado 221: recibio confirmacion del cliente:OK-continuado.
+delegado 221: recibio cc y clave - continuando
+delegado 221: envio valor 59079600 al cliente. continuado.
+delegado 221: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 222: recibio-HOLA-continuando.
+delegado 222: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 222: envio certificado del servidor. continuando.
+delegado 222: recibio y creo llave simetrica. continuando.
+delegado 222: recibio confirmacion del cliente:OK-continuado.
+delegado 222: recibio cc y clave - continuando
+delegado 222: envio valor 17000800 al cliente. continuado.
+delegado 222: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 223: recibio-HOLA-continuando.
+delegado 223: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 223: envio certificado del servidor. continuando.
+delegado 223: recibio y creo llave simetrica. continuando.
+delegado 223: recibio confirmacion del cliente:OK-continuado.
+delegado 223: recibio cc y clave - continuando
+delegado 223: envio valor 87819400 al cliente. continuado.
+delegado 223: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 224: recibio-HOLA-continuando.
+delegado 224: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 224: envio certificado del servidor. continuando.
+delegado 224: recibio y creo llave simetrica. continuando.
+delegado 224: recibio confirmacion del cliente:OK-continuado.
+delegado 224: recibio cc y clave - continuando
+delegado 224: envio valor 41423100 al cliente. continuado.
+delegado 224: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 225: recibio-HOLA-continuando.
+delegado 225: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 225: envio certificado del servidor. continuando.
+delegado 225: recibio y creo llave simetrica. continuando.
+delegado 225: recibio confirmacion del cliente:OK-continuado.
+delegado 225: recibio cc y clave - continuando
+delegado 225: envio valor 59747400 al cliente. continuado.
+delegado 225: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 226: recibio-HOLA-continuando.
+delegado 226: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 226: envio certificado del servidor. continuando.
+delegado 226: recibio y creo llave simetrica. continuando.
+delegado 226: recibio confirmacion del cliente:OK-continuado.
+delegado 226: recibio cc y clave - continuando
+delegado 226: envio valor 26409800 al cliente. continuado.
+delegado 226: Terminando exitosamente.OK
+TTMS: 128
+//
+delegado 227: recibio-HOLA-continuando.
+delegado 227: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 227: envio certificado del servidor. continuando.
+delegado 227: recibio y creo llave simetrica. continuando.
+delegado 227: recibio confirmacion del cliente:OK-continuado.
+delegado 227: recibio cc y clave - continuando
+delegado 227: envio valor 53257000 al cliente. continuado.
+delegado 227: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 228: recibio-HOLA-continuando.
+delegado 228: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 228: envio certificado del servidor. continuando.
+delegado 228: recibio y creo llave simetrica. continuando.
+delegado 228: recibio confirmacion del cliente:OK-continuado.
+delegado 228: recibio cc y clave - continuando
+delegado 228: envio valor 47346300 al cliente. continuado.
+delegado 228: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 229: recibio-HOLA-continuando.
+delegado 229: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 229: envio certificado del servidor. continuando.
+delegado 229: recibio y creo llave simetrica. continuando.
+delegado 229: recibio confirmacion del cliente:OK-continuado.
+delegado 229: recibio cc y clave - continuando
+delegado 229: envio valor 34688500 al cliente. continuado.
+delegado 229: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 230: recibio-HOLA-continuando.
+delegado 230: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 230: envio certificado del servidor. continuando.
+delegado 230: recibio y creo llave simetrica. continuando.
+delegado 230: recibio confirmacion del cliente:OK-continuado.
+delegado 230: recibio cc y clave - continuando
+delegado 230: envio valor 40454800 al cliente. continuado.
+delegado 230: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 231: recibio-HOLA-continuando.
+delegado 231: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 231: envio certificado del servidor. continuando.
+delegado 231: recibio y creo llave simetrica. continuando.
+delegado 231: recibio confirmacion del cliente:OK-continuado.
+delegado 231: recibio cc y clave - continuando
+delegado 231: envio valor 38687000 al cliente. continuado.
+delegado 231: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 232: recibio-HOLA-continuando.
+delegado 232: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 232: envio certificado del servidor. continuando.
+delegado 232: recibio y creo llave simetrica. continuando.
+delegado 232: recibio confirmacion del cliente:OK-continuado.
+delegado 232: recibio cc y clave - continuando
+delegado 232: envio valor 58133300 al cliente. continuado.
+delegado 232: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 233: recibio-HOLA-continuando.
+delegado 233: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 233: envio certificado del servidor. continuando.
+delegado 233: recibio y creo llave simetrica. continuando.
+delegado 233: recibio confirmacion del cliente:OK-continuado.
+delegado 233: recibio cc y clave - continuando
+delegado 233: envio valor 82628300 al cliente. continuado.
+delegado 233: Terminando exitosamente.OK
+TTMS: 134
+//
+delegado 234: recibio-HOLA-continuando.
+delegado 234: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 234: envio certificado del servidor. continuando.
+delegado 234: recibio y creo llave simetrica. continuando.
+delegado 234: recibio confirmacion del cliente:OK-continuado.
+delegado 234: recibio cc y clave - continuando
+delegado 234: envio valor 47424500 al cliente. continuado.
+delegado 234: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 235: recibio-HOLA-continuando.
+delegado 235: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 235: envio certificado del servidor. continuando.
+delegado 235: recibio y creo llave simetrica. continuando.
+delegado 235: recibio confirmacion del cliente:OK-continuado.
+delegado 235: recibio cc y clave - continuando
+delegado 235: envio valor 96475000 al cliente. continuado.
+delegado 235: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 236: recibio-HOLA-continuando.
+delegado 236: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 236: envio certificado del servidor. continuando.
+delegado 236: recibio y creo llave simetrica. continuando.
+delegado 236: recibio confirmacion del cliente:OK-continuado.
+delegado 236: recibio cc y clave - continuando
+delegado 236: envio valor 61054000 al cliente. continuado.
+delegado 236: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 237: recibio-HOLA-continuando.
+delegado 237: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 237: envio certificado del servidor. continuando.
+delegado 237: recibio y creo llave simetrica. continuando.
+delegado 237: recibio confirmacion del cliente:OK-continuado.
+delegado 237: recibio cc y clave - continuando
+delegado 237: envio valor 51169700 al cliente. continuado.
+delegado 237: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 238: recibio-HOLA-continuando.
+delegado 238: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 238: envio certificado del servidor. continuando.
+delegado 238: recibio y creo llave simetrica. continuando.
+delegado 238: recibio confirmacion del cliente:OK-continuado.
+delegado 238: recibio cc y clave - continuando
+delegado 238: envio valor 32415700 al cliente. continuado.
+delegado 238: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 239: recibio-HOLA-continuando.
+delegado 239: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 239: envio certificado del servidor. continuando.
+delegado 239: recibio y creo llave simetrica. continuando.
+delegado 239: recibio confirmacion del cliente:OK-continuado.
+delegado 239: recibio cc y clave - continuando
+delegado 239: envio valor 78404700 al cliente. continuado.
+delegado 239: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 240: recibio-HOLA-continuando.
+delegado 240: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 240: envio certificado del servidor. continuando.
+delegado 240: recibio y creo llave simetrica. continuando.
+delegado 240: recibio confirmacion del cliente:OK-continuado.
+delegado 240: recibio cc y clave - continuando
+delegado 240: envio valor 64065100 al cliente. continuado.
+delegado 240: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 241: recibio-HOLA-continuando.
+delegado 241: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 241: envio certificado del servidor. continuando.
+delegado 241: recibio y creo llave simetrica. continuando.
+delegado 241: recibio confirmacion del cliente:OK-continuado.
+delegado 241: recibio cc y clave - continuando
+delegado 241: envio valor 37541300 al cliente. continuado.
+delegado 241: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 242: recibio-HOLA-continuando.
+delegado 242: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 242: envio certificado del servidor. continuando.
+delegado 242: recibio y creo llave simetrica. continuando.
+delegado 242: recibio confirmacion del cliente:OK-continuado.
+delegado 242: recibio cc y clave - continuando
+delegado 242: envio valor 27207600 al cliente. continuado.
+delegado 242: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 243: recibio-HOLA-continuando.
+delegado 243: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 243: envio certificado del servidor. continuando.
+delegado 243: recibio y creo llave simetrica. continuando.
+delegado 243: recibio confirmacion del cliente:OK-continuado.
+delegado 243: recibio cc y clave - continuando
+delegado 243: envio valor 11955000 al cliente. continuado.
+delegado 243: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 244: recibio-HOLA-continuando.
+delegado 244: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 244: envio certificado del servidor. continuando.
+delegado 244: recibio y creo llave simetrica. continuando.
+delegado 244: recibio confirmacion del cliente:OK-continuado.
+delegado 244: recibio cc y clave - continuando
+delegado 244: envio valor 87271500 al cliente. continuado.
+delegado 244: Terminando exitosamente.OK
+TTMS: 121
+//
+delegado 245: recibio-HOLA-continuando.
+delegado 245: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 245: envio certificado del servidor. continuando.
+delegado 245: recibio y creo llave simetrica. continuando.
+delegado 245: recibio confirmacion del cliente:OK-continuado.
+delegado 245: recibio cc y clave - continuando
+delegado 245: envio valor 39490700 al cliente. continuado.
+delegado 245: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 246: recibio-HOLA-continuando.
+delegado 246: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 246: envio certificado del servidor. continuando.
+delegado 246: recibio y creo llave simetrica. continuando.
+delegado 246: recibio confirmacion del cliente:OK-continuado.
+delegado 246: recibio cc y clave - continuando
+delegado 246: envio valor 86614300 al cliente. continuado.
+delegado 246: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 247: recibio-HOLA-continuando.
+delegado 247: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 247: envio certificado del servidor. continuando.
+delegado 247: recibio y creo llave simetrica. continuando.
+delegado 247: recibio confirmacion del cliente:OK-continuado.
+delegado 247: recibio cc y clave - continuando
+delegado 247: envio valor 30664100 al cliente. continuado.
+delegado 247: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 248: recibio-HOLA-continuando.
+delegado 248: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 248: envio certificado del servidor. continuando.
+delegado 248: recibio y creo llave simetrica. continuando.
+delegado 248: recibio confirmacion del cliente:OK-continuado.
+delegado 248: recibio cc y clave - continuando
+delegado 248: envio valor 89977700 al cliente. continuado.
+delegado 248: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 249: recibio-HOLA-continuando.
+delegado 249: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 249: envio certificado del servidor. continuando.
+delegado 249: recibio y creo llave simetrica. continuando.
+delegado 249: recibio confirmacion del cliente:OK-continuado.
+delegado 249: recibio cc y clave - continuando
+delegado 249: envio valor 83630100 al cliente. continuado.
+delegado 249: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 250: recibio-HOLA-continuando.
+delegado 250: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 250: envio certificado del servidor. continuando.
+delegado 250: recibio y creo llave simetrica. continuando.
+delegado 250: recibio confirmacion del cliente:OK-continuado.
+delegado 250: recibio cc y clave - continuando
+delegado 250: envio valor 39260700 al cliente. continuado.
+delegado 250: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 251: recibio-HOLA-continuando.
+delegado 251: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 251: envio certificado del servidor. continuando.
+delegado 251: recibio y creo llave simetrica. continuando.
+delegado 251: recibio confirmacion del cliente:OK-continuado.
+delegado 251: recibio cc y clave - continuando
+delegado 251: envio valor 59312100 al cliente. continuado.
+delegado 251: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 252: recibio-HOLA-continuando.
+delegado 252: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 252: envio certificado del servidor. continuando.
+delegado 252: recibio y creo llave simetrica. continuando.
+delegado 252: recibio confirmacion del cliente:OK-continuado.
+delegado 252: recibio cc y clave - continuando
+delegado 252: envio valor 63842100 al cliente. continuado.
+delegado 252: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 253: recibio-HOLA-continuando.
+delegado 253: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 253: envio certificado del servidor. continuando.
+delegado 253: recibio y creo llave simetrica. continuando.
+delegado 253: recibio confirmacion del cliente:OK-continuado.
+delegado 253: recibio cc y clave - continuando
+delegado 253: envio valor 18925400 al cliente. continuado.
+delegado 253: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 254: recibio-HOLA-continuando.
+delegado 254: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 254: envio certificado del servidor. continuando.
+delegado 254: recibio y creo llave simetrica. continuando.
+delegado 254: recibio confirmacion del cliente:OK-continuado.
+delegado 254: recibio cc y clave - continuando
+delegado 254: envio valor 54188500 al cliente. continuado.
+delegado 254: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 255: recibio-HOLA-continuando.
+delegado 255: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 255: envio certificado del servidor. continuando.
+delegado 255: recibio y creo llave simetrica. continuando.
+delegado 255: recibio confirmacion del cliente:OK-continuado.
+delegado 255: recibio cc y clave - continuando
+delegado 255: envio valor 96661500 al cliente. continuado.
+delegado 255: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 256: recibio-HOLA-continuando.
+delegado 256: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 256: envio certificado del servidor. continuando.
+delegado 256: recibio y creo llave simetrica. continuando.
+delegado 256: recibio confirmacion del cliente:OK-continuado.
+delegado 256: recibio cc y clave - continuando
+delegado 256: envio valor 45309200 al cliente. continuado.
+delegado 256: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 257: recibio-HOLA-continuando.
+delegado 257: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 257: envio certificado del servidor. continuando.
+delegado 257: recibio y creo llave simetrica. continuando.
+delegado 257: recibio confirmacion del cliente:OK-continuado.
+delegado 257: recibio cc y clave - continuando
+delegado 257: envio valor 92866600 al cliente. continuado.
+delegado 257: Terminando exitosamente.OK
+TTMS: 127
+//
+delegado 258: recibio-HOLA-continuando.
+delegado 258: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 258: envio certificado del servidor. continuando.
+delegado 258: recibio y creo llave simetrica. continuando.
+delegado 258: recibio confirmacion del cliente:OK-continuado.
+delegado 258: recibio cc y clave - continuando
+delegado 258: envio valor 37670500 al cliente. continuado.
+delegado 258: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 259: recibio-HOLA-continuando.
+delegado 259: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 259: envio certificado del servidor. continuando.
+delegado 259: recibio y creo llave simetrica. continuando.
+delegado 259: recibio confirmacion del cliente:OK-continuado.
+delegado 259: recibio cc y clave - continuando
+delegado 259: envio valor 55606300 al cliente. continuado.
+delegado 259: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 260: recibio-HOLA-continuando.
+delegado 260: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 260: envio certificado del servidor. continuando.
+delegado 260: recibio y creo llave simetrica. continuando.
+delegado 260: recibio confirmacion del cliente:OK-continuado.
+delegado 260: recibio cc y clave - continuando
+delegado 260: envio valor 50844100 al cliente. continuado.
+delegado 260: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 261: recibio-HOLA-continuando.
+delegado 261: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 261: envio certificado del servidor. continuando.
+delegado 261: recibio y creo llave simetrica. continuando.
+delegado 261: recibio confirmacion del cliente:OK-continuado.
+delegado 261: recibio cc y clave - continuando
+delegado 261: envio valor 41789000 al cliente. continuado.
+delegado 261: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 262: recibio-HOLA-continuando.
+delegado 262: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 262: envio certificado del servidor. continuando.
+delegado 262: recibio y creo llave simetrica. continuando.
+delegado 262: recibio confirmacion del cliente:OK-continuado.
+delegado 262: recibio cc y clave - continuando
+delegado 262: envio valor 42556000 al cliente. continuado.
+delegado 262: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 263: recibio-HOLA-continuando.
+delegado 263: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 263: envio certificado del servidor. continuando.
+delegado 263: recibio y creo llave simetrica. continuando.
+delegado 263: recibio confirmacion del cliente:OK-continuado.
+delegado 263: recibio cc y clave - continuando
+delegado 263: envio valor 39051300 al cliente. continuado.
+delegado 263: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 264: recibio-HOLA-continuando.
+delegado 264: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 264: envio certificado del servidor. continuando.
+delegado 264: recibio y creo llave simetrica. continuando.
+delegado 264: recibio confirmacion del cliente:OK-continuado.
+delegado 264: recibio cc y clave - continuando
+delegado 264: envio valor 55636800 al cliente. continuado.
+delegado 264: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 265: recibio-HOLA-continuando.
+delegado 265: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 265: envio certificado del servidor. continuando.
+delegado 265: recibio y creo llave simetrica. continuando.
+delegado 265: recibio confirmacion del cliente:OK-continuado.
+delegado 265: recibio cc y clave - continuando
+delegado 265: envio valor 89867200 al cliente. continuado.
+delegado 265: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 266: recibio-HOLA-continuando.
+delegado 266: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 266: envio certificado del servidor. continuando.
+delegado 266: recibio y creo llave simetrica. continuando.
+delegado 266: recibio confirmacion del cliente:OK-continuado.
+delegado 266: recibio cc y clave - continuando
+delegado 266: envio valor 94946800 al cliente. continuado.
+delegado 266: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 267: recibio-HOLA-continuando.
+delegado 267: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 267: envio certificado del servidor. continuando.
+delegado 267: recibio y creo llave simetrica. continuando.
+delegado 267: recibio confirmacion del cliente:OK-continuado.
+delegado 267: recibio cc y clave - continuando
+delegado 267: envio valor 50692400 al cliente. continuado.
+delegado 267: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 268: recibio-HOLA-continuando.
+delegado 268: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 268: envio certificado del servidor. continuando.
+delegado 268: recibio y creo llave simetrica. continuando.
+delegado 268: recibio confirmacion del cliente:OK-continuado.
+delegado 268: recibio cc y clave - continuando
+delegado 268: envio valor 44797100 al cliente. continuado.
+delegado 268: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 269: recibio-HOLA-continuando.
+delegado 269: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 269: envio certificado del servidor. continuando.
+delegado 269: recibio y creo llave simetrica. continuando.
+delegado 269: recibio confirmacion del cliente:OK-continuado.
+delegado 269: recibio cc y clave - continuando
+delegado 269: envio valor 84232700 al cliente. continuado.
+delegado 269: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 270: recibio-HOLA-continuando.
+delegado 270: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 270: envio certificado del servidor. continuando.
+delegado 270: recibio y creo llave simetrica. continuando.
+delegado 270: recibio confirmacion del cliente:OK-continuado.
+delegado 270: recibio cc y clave - continuando
+delegado 270: envio valor 59781700 al cliente. continuado.
+delegado 270: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 271: recibio-HOLA-continuando.
+delegado 271: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 271: envio certificado del servidor. continuando.
+delegado 271: recibio y creo llave simetrica. continuando.
+delegado 271: recibio confirmacion del cliente:OK-continuado.
+delegado 271: recibio cc y clave - continuando
+delegado 271: envio valor 93763200 al cliente. continuado.
+delegado 271: Terminando exitosamente.OK
+TTMS: 134
+//
+delegado 272: recibio-HOLA-continuando.
+delegado 272: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 272: envio certificado del servidor. continuando.
+delegado 272: recibio y creo llave simetrica. continuando.
+delegado 272: recibio confirmacion del cliente:OK-continuado.
+delegado 272: recibio cc y clave - continuando
+delegado 272: envio valor 77320300 al cliente. continuado.
+delegado 272: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 273: recibio-HOLA-continuando.
+delegado 273: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 273: envio certificado del servidor. continuando.
+delegado 273: recibio y creo llave simetrica. continuando.
+delegado 273: recibio confirmacion del cliente:OK-continuado.
+delegado 273: recibio cc y clave - continuando
+delegado 273: envio valor 70770100 al cliente. continuado.
+delegado 273: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 274: recibio-HOLA-continuando.
+delegado 274: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 274: envio certificado del servidor. continuando.
+delegado 274: recibio y creo llave simetrica. continuando.
+delegado 274: recibio confirmacion del cliente:OK-continuado.
+delegado 274: recibio cc y clave - continuando
+delegado 274: envio valor 15899200 al cliente. continuado.
+delegado 274: Terminando exitosamente.OK
+TTMS: 130
+//
+delegado 275: recibio-HOLA-continuando.
+delegado 275: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 275: envio certificado del servidor. continuando.
+delegado 275: recibio y creo llave simetrica. continuando.
+delegado 275: recibio confirmacion del cliente:OK-continuado.
+delegado 275: recibio cc y clave - continuando
+delegado 275: envio valor 35077700 al cliente. continuado.
+delegado 275: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 276: recibio-HOLA-continuando.
+delegado 276: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 276: envio certificado del servidor. continuando.
+delegado 276: recibio y creo llave simetrica. continuando.
+delegado 276: recibio confirmacion del cliente:OK-continuado.
+delegado 276: recibio cc y clave - continuando
+delegado 276: envio valor 70916300 al cliente. continuado.
+delegado 276: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 277: recibio-HOLA-continuando.
+delegado 277: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 277: envio certificado del servidor. continuando.
+delegado 277: recibio y creo llave simetrica. continuando.
+delegado 277: recibio confirmacion del cliente:OK-continuado.
+delegado 277: recibio cc y clave - continuando
+delegado 277: envio valor 39964200 al cliente. continuado.
+delegado 277: Terminando exitosamente.OK
+TTMS: 121
+//
+delegado 278: recibio-HOLA-continuando.
+delegado 278: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 278: envio certificado del servidor. continuando.
+delegado 278: recibio y creo llave simetrica. continuando.
+delegado 278: recibio confirmacion del cliente:OK-continuado.
+delegado 278: recibio cc y clave - continuando
+delegado 278: envio valor 57824700 al cliente. continuado.
+delegado 278: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 279: recibio-HOLA-continuando.
+delegado 279: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 279: envio certificado del servidor. continuando.
+delegado 279: recibio y creo llave simetrica. continuando.
+delegado 279: recibio confirmacion del cliente:OK-continuado.
+delegado 279: recibio cc y clave - continuando
+delegado 279: envio valor 13851500 al cliente. continuado.
+delegado 279: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 280: recibio-HOLA-continuando.
+delegado 280: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 280: envio certificado del servidor. continuando.
+delegado 280: recibio y creo llave simetrica. continuando.
+delegado 280: recibio confirmacion del cliente:OK-continuado.
+delegado 280: recibio cc y clave - continuando
+delegado 280: envio valor 93119500 al cliente. continuado.
+delegado 280: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 281: recibio-HOLA-continuando.
+delegado 281: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 281: envio certificado del servidor. continuando.
+delegado 281: recibio y creo llave simetrica. continuando.
+delegado 281: recibio confirmacion del cliente:OK-continuado.
+delegado 281: recibio cc y clave - continuando
+delegado 281: envio valor 92018300 al cliente. continuado.
+delegado 281: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 282: recibio-HOLA-continuando.
+delegado 282: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 282: envio certificado del servidor. continuando.
+delegado 282: recibio y creo llave simetrica. continuando.
+delegado 282: recibio confirmacion del cliente:OK-continuado.
+delegado 282: recibio cc y clave - continuando
+delegado 282: envio valor 54003900 al cliente. continuado.
+delegado 282: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 283: recibio-HOLA-continuando.
+delegado 283: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 283: envio certificado del servidor. continuando.
+delegado 283: recibio y creo llave simetrica. continuando.
+delegado 283: recibio confirmacion del cliente:OK-continuado.
+delegado 283: recibio cc y clave - continuando
+delegado 283: envio valor 60556600 al cliente. continuado.
+delegado 283: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 284: recibio-HOLA-continuando.
+delegado 284: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 284: envio certificado del servidor. continuando.
+delegado 284: recibio y creo llave simetrica. continuando.
+delegado 284: recibio confirmacion del cliente:OK-continuado.
+delegado 284: recibio cc y clave - continuando
+delegado 284: envio valor 54007700 al cliente. continuado.
+delegado 284: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 285: recibio-HOLA-continuando.
+delegado 285: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 285: envio certificado del servidor. continuando.
+delegado 285: recibio y creo llave simetrica. continuando.
+delegado 285: recibio confirmacion del cliente:OK-continuado.
+delegado 285: recibio cc y clave - continuando
+delegado 285: envio valor 40769800 al cliente. continuado.
+delegado 285: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 286: recibio-HOLA-continuando.
+delegado 286: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 286: envio certificado del servidor. continuando.
+delegado 286: recibio y creo llave simetrica. continuando.
+delegado 286: recibio confirmacion del cliente:OK-continuado.
+delegado 286: recibio cc y clave - continuando
+delegado 286: envio valor 78622500 al cliente. continuado.
+delegado 286: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 287: recibio-HOLA-continuando.
+delegado 287: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 287: envio certificado del servidor. continuando.
+delegado 287: recibio y creo llave simetrica. continuando.
+delegado 287: recibio confirmacion del cliente:OK-continuado.
+delegado 287: recibio cc y clave - continuando
+delegado 287: envio valor 16644200 al cliente. continuado.
+delegado 287: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 288: recibio-HOLA-continuando.
+delegado 288: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 288: envio certificado del servidor. continuando.
+delegado 288: recibio y creo llave simetrica. continuando.
+delegado 288: recibio confirmacion del cliente:OK-continuado.
+delegado 288: recibio cc y clave - continuando
+delegado 288: envio valor 75617200 al cliente. continuado.
+delegado 288: Terminando exitosamente.OK
+TTMS: 127
+//
+delegado 289: recibio-HOLA-continuando.
+delegado 289: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 289: envio certificado del servidor. continuando.
+delegado 289: recibio y creo llave simetrica. continuando.
+delegado 289: recibio confirmacion del cliente:OK-continuado.
+delegado 289: recibio cc y clave - continuando
+delegado 289: envio valor 69085600 al cliente. continuado.
+delegado 289: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 290: recibio-HOLA-continuando.
+delegado 290: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 290: envio certificado del servidor. continuando.
+delegado 290: recibio y creo llave simetrica. continuando.
+delegado 290: recibio confirmacion del cliente:OK-continuado.
+delegado 290: recibio cc y clave - continuando
+delegado 290: envio valor 55889500 al cliente. continuado.
+delegado 290: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 291: recibio-HOLA-continuando.
+delegado 291: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 291: envio certificado del servidor. continuando.
+delegado 291: recibio y creo llave simetrica. continuando.
+delegado 291: recibio confirmacion del cliente:OK-continuado.
+delegado 291: recibio cc y clave - continuando
+delegado 291: envio valor 19634000 al cliente. continuado.
+delegado 291: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 292: recibio-HOLA-continuando.
+delegado 292: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 292: envio certificado del servidor. continuando.
+delegado 292: recibio y creo llave simetrica. continuando.
+delegado 292: recibio confirmacion del cliente:OK-continuado.
+delegado 292: recibio cc y clave - continuando
+delegado 292: envio valor 86350100 al cliente. continuado.
+delegado 292: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 293: recibio-HOLA-continuando.
+delegado 293: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 293: envio certificado del servidor. continuando.
+delegado 293: recibio y creo llave simetrica. continuando.
+delegado 293: recibio confirmacion del cliente:OK-continuado.
+delegado 293: recibio cc y clave - continuando
+delegado 293: envio valor 26886800 al cliente. continuado.
+delegado 293: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 294: recibio-HOLA-continuando.
+delegado 294: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 294: envio certificado del servidor. continuando.
+delegado 294: recibio y creo llave simetrica. continuando.
+delegado 294: recibio confirmacion del cliente:OK-continuado.
+delegado 294: recibio cc y clave - continuando
+delegado 294: envio valor 14898600 al cliente. continuado.
+delegado 294: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 295: recibio-HOLA-continuando.
+delegado 295: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 295: envio certificado del servidor. continuando.
+delegado 295: recibio y creo llave simetrica. continuando.
+delegado 295: recibio confirmacion del cliente:OK-continuado.
+delegado 295: recibio cc y clave - continuando
+delegado 295: envio valor 23477600 al cliente. continuado.
+delegado 295: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 296: recibio-HOLA-continuando.
+delegado 296: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 296: envio certificado del servidor. continuando.
+delegado 296: recibio y creo llave simetrica. continuando.
+delegado 296: recibio confirmacion del cliente:OK-continuado.
+delegado 296: recibio cc y clave - continuando
+delegado 296: envio valor 47447000 al cliente. continuado.
+delegado 296: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 297: recibio-HOLA-continuando.
+delegado 297: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 297: envio certificado del servidor. continuando.
+delegado 297: recibio y creo llave simetrica. continuando.
+delegado 297: recibio confirmacion del cliente:OK-continuado.
+delegado 297: recibio cc y clave - continuando
+delegado 297: envio valor 44537800 al cliente. continuado.
+delegado 297: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 298: recibio-HOLA-continuando.
+delegado 298: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 298: envio certificado del servidor. continuando.
+delegado 298: recibio y creo llave simetrica. continuando.
+delegado 298: recibio confirmacion del cliente:OK-continuado.
+delegado 298: recibio cc y clave - continuando
+delegado 298: envio valor 91319300 al cliente. continuado.
+delegado 298: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 299: recibio-HOLA-continuando.
+delegado 299: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 299: envio certificado del servidor. continuando.
+delegado 299: recibio y creo llave simetrica. continuando.
+delegado 299: recibio confirmacion del cliente:OK-continuado.
+delegado 299: recibio cc y clave - continuando
+delegado 299: envio valor 95881300 al cliente. continuado.
+delegado 299: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 300: recibio-HOLA-continuando.
+delegado 300: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 300: envio certificado del servidor. continuando.
+delegado 300: recibio y creo llave simetrica. continuando.
+delegado 300: recibio confirmacion del cliente:OK-continuado.
+delegado 300: recibio cc y clave - continuando
+delegado 300: envio valor 29379200 al cliente. continuado.
+delegado 300: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 301: recibio-HOLA-continuando.
+delegado 301: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 301: envio certificado del servidor. continuando.
+delegado 301: recibio y creo llave simetrica. continuando.
+delegado 301: recibio confirmacion del cliente:OK-continuado.
+delegado 301: recibio cc y clave - continuando
+delegado 301: envio valor 67653200 al cliente. continuado.
+delegado 301: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 302: recibio-HOLA-continuando.
+delegado 302: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 302: envio certificado del servidor. continuando.
+delegado 302: recibio y creo llave simetrica. continuando.
+delegado 302: recibio confirmacion del cliente:OK-continuado.
+delegado 302: recibio cc y clave - continuando
+delegado 302: envio valor 11222000 al cliente. continuado.
+delegado 302: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 303: recibio-HOLA-continuando.
+delegado 303: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 303: envio certificado del servidor. continuando.
+delegado 303: recibio y creo llave simetrica. continuando.
+delegado 303: recibio confirmacion del cliente:OK-continuado.
+delegado 303: recibio cc y clave - continuando
+delegado 303: envio valor 34821100 al cliente. continuado.
+delegado 303: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 304: recibio-HOLA-continuando.
+delegado 304: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 304: envio certificado del servidor. continuando.
+delegado 304: recibio y creo llave simetrica. continuando.
+delegado 304: recibio confirmacion del cliente:OK-continuado.
+delegado 304: recibio cc y clave - continuando
+delegado 304: envio valor 78604700 al cliente. continuado.
+delegado 304: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 305: recibio-HOLA-continuando.
+delegado 305: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 305: envio certificado del servidor. continuando.
+delegado 305: recibio y creo llave simetrica. continuando.
+delegado 305: recibio confirmacion del cliente:OK-continuado.
+delegado 305: recibio cc y clave - continuando
+delegado 305: envio valor 79217900 al cliente. continuado.
+delegado 305: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 306: recibio-HOLA-continuando.
+delegado 306: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 306: envio certificado del servidor. continuando.
+delegado 306: recibio y creo llave simetrica. continuando.
+delegado 306: recibio confirmacion del cliente:OK-continuado.
+delegado 306: recibio cc y clave - continuando
+delegado 306: envio valor 13454700 al cliente. continuado.
+delegado 306: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 307: recibio-HOLA-continuando.
+delegado 307: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 307: envio certificado del servidor. continuando.
+delegado 307: recibio y creo llave simetrica. continuando.
+delegado 307: recibio confirmacion del cliente:OK-continuado.
+delegado 307: recibio cc y clave - continuando
+delegado 307: envio valor 25644300 al cliente. continuado.
+delegado 307: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 308: recibio-HOLA-continuando.
+delegado 308: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 308: envio certificado del servidor. continuando.
+delegado 308: recibio y creo llave simetrica. continuando.
+delegado 308: recibio confirmacion del cliente:OK-continuado.
+delegado 308: recibio cc y clave - continuando
+delegado 308: envio valor 57658800 al cliente. continuado.
+delegado 308: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 309: recibio-HOLA-continuando.
+delegado 309: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 309: envio certificado del servidor. continuando.
+delegado 309: recibio y creo llave simetrica. continuando.
+delegado 309: recibio confirmacion del cliente:OK-continuado.
+delegado 309: recibio cc y clave - continuando
+delegado 309: envio valor 10089800 al cliente. continuado.
+delegado 309: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 310: recibio-HOLA-continuando.
+delegado 310: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 310: envio certificado del servidor. continuando.
+delegado 310: recibio y creo llave simetrica. continuando.
+delegado 310: recibio confirmacion del cliente:OK-continuado.
+delegado 310: recibio cc y clave - continuando
+delegado 310: envio valor 83671400 al cliente. continuado.
+delegado 310: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 311: recibio-HOLA-continuando.
+delegado 311: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 311: envio certificado del servidor. continuando.
+delegado 311: recibio y creo llave simetrica. continuando.
+delegado 311: recibio confirmacion del cliente:OK-continuado.
+delegado 311: recibio cc y clave - continuando
+delegado 311: envio valor 54121300 al cliente. continuado.
+delegado 311: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 312: recibio-HOLA-continuando.
+delegado 312: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 312: envio certificado del servidor. continuando.
+delegado 312: recibio y creo llave simetrica. continuando.
+delegado 312: recibio confirmacion del cliente:OK-continuado.
+delegado 312: recibio cc y clave - continuando
+delegado 312: envio valor 45775400 al cliente. continuado.
+delegado 312: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 313: recibio-HOLA-continuando.
+delegado 313: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 313: envio certificado del servidor. continuando.
+delegado 313: recibio y creo llave simetrica. continuando.
+delegado 313: recibio confirmacion del cliente:OK-continuado.
+delegado 313: recibio cc y clave - continuando
+delegado 313: envio valor 99484400 al cliente. continuado.
+delegado 313: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 314: recibio-HOLA-continuando.
+delegado 314: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 314: envio certificado del servidor. continuando.
+delegado 314: recibio y creo llave simetrica. continuando.
+delegado 314: recibio confirmacion del cliente:OK-continuado.
+delegado 314: recibio cc y clave - continuando
+delegado 314: envio valor 48843400 al cliente. continuado.
+delegado 314: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 315: recibio-HOLA-continuando.
+delegado 315: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 315: envio certificado del servidor. continuando.
+delegado 315: recibio y creo llave simetrica. continuando.
+delegado 315: recibio confirmacion del cliente:OK-continuado.
+delegado 315: recibio cc y clave - continuando
+delegado 315: envio valor 41795000 al cliente. continuado.
+delegado 315: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 316: recibio-HOLA-continuando.
+delegado 316: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 316: envio certificado del servidor. continuando.
+delegado 316: recibio y creo llave simetrica. continuando.
+delegado 316: recibio confirmacion del cliente:OK-continuado.
+delegado 316: recibio cc y clave - continuando
+delegado 316: envio valor 79658100 al cliente. continuado.
+delegado 316: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 317: recibio-HOLA-continuando.
+delegado 317: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 317: envio certificado del servidor. continuando.
+delegado 317: recibio y creo llave simetrica. continuando.
+delegado 317: recibio confirmacion del cliente:OK-continuado.
+delegado 317: recibio cc y clave - continuando
+delegado 317: envio valor 33423000 al cliente. continuado.
+delegado 317: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 318: recibio-HOLA-continuando.
+delegado 318: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 318: envio certificado del servidor. continuando.
+delegado 318: recibio y creo llave simetrica. continuando.
+delegado 318: recibio confirmacion del cliente:OK-continuado.
+delegado 318: recibio cc y clave - continuando
+delegado 318: envio valor 74237700 al cliente. continuado.
+delegado 318: Terminando exitosamente.OK
+TTMS: 126
+//
+delegado 319: recibio-HOLA-continuando.
+delegado 319: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 319: envio certificado del servidor. continuando.
+delegado 319: recibio y creo llave simetrica. continuando.
+delegado 319: recibio confirmacion del cliente:OK-continuado.
+delegado 319: recibio cc y clave - continuando
+delegado 319: envio valor 32537900 al cliente. continuado.
+delegado 319: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 320: recibio-HOLA-continuando.
+delegado 320: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 320: envio certificado del servidor. continuando.
+delegado 320: recibio y creo llave simetrica. continuando.
+delegado 320: recibio confirmacion del cliente:OK-continuado.
+delegado 320: recibio cc y clave - continuando
+delegado 320: envio valor 63622400 al cliente. continuado.
+delegado 320: Terminando exitosamente.OK
+TTMS: 128
+//
+delegado 321: recibio-HOLA-continuando.
+delegado 321: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 321: envio certificado del servidor. continuando.
+delegado 321: recibio y creo llave simetrica. continuando.
+delegado 321: recibio confirmacion del cliente:OK-continuado.
+delegado 321: recibio cc y clave - continuando
+delegado 321: envio valor 79299100 al cliente. continuado.
+delegado 321: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 322: recibio-HOLA-continuando.
+delegado 322: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 322: envio certificado del servidor. continuando.
+delegado 322: recibio y creo llave simetrica. continuando.
+delegado 322: recibio confirmacion del cliente:OK-continuado.
+delegado 322: recibio cc y clave - continuando
+delegado 322: envio valor 78439000 al cliente. continuado.
+delegado 322: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 323: recibio-HOLA-continuando.
+delegado 323: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 323: envio certificado del servidor. continuando.
+delegado 323: recibio y creo llave simetrica. continuando.
+delegado 323: recibio confirmacion del cliente:OK-continuado.
+delegado 323: recibio cc y clave - continuando
+delegado 323: envio valor 18138700 al cliente. continuado.
+delegado 323: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 324: recibio-HOLA-continuando.
+delegado 324: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 324: envio certificado del servidor. continuando.
+delegado 324: recibio y creo llave simetrica. continuando.
+delegado 324: recibio confirmacion del cliente:OK-continuado.
+delegado 324: recibio cc y clave - continuando
+delegado 324: envio valor 90142000 al cliente. continuado.
+delegado 324: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 325: recibio-HOLA-continuando.
+delegado 325: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 325: envio certificado del servidor. continuando.
+delegado 325: recibio y creo llave simetrica. continuando.
+delegado 325: recibio confirmacion del cliente:OK-continuado.
+delegado 325: recibio cc y clave - continuando
+delegado 325: envio valor 58254200 al cliente. continuado.
+delegado 325: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 326: recibio-HOLA-continuando.
+delegado 326: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 326: envio certificado del servidor. continuando.
+delegado 326: recibio y creo llave simetrica. continuando.
+delegado 326: recibio confirmacion del cliente:OK-continuado.
+delegado 326: recibio cc y clave - continuando
+delegado 326: envio valor 34082000 al cliente. continuado.
+delegado 326: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 327: recibio-HOLA-continuando.
+delegado 327: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 327: envio certificado del servidor. continuando.
+delegado 327: recibio y creo llave simetrica. continuando.
+delegado 327: recibio confirmacion del cliente:OK-continuado.
+delegado 327: recibio cc y clave - continuando
+delegado 327: envio valor 99363000 al cliente. continuado.
+delegado 327: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 328: recibio-HOLA-continuando.
+delegado 328: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 328: envio certificado del servidor. continuando.
+delegado 328: recibio y creo llave simetrica. continuando.
+delegado 328: recibio confirmacion del cliente:OK-continuado.
+delegado 328: recibio cc y clave - continuando
+delegado 328: envio valor 65992000 al cliente. continuado.
+delegado 328: Terminando exitosamente.OK
+TTMS: 126
+//
+delegado 329: recibio-HOLA-continuando.
+delegado 329: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 329: envio certificado del servidor. continuando.
+delegado 329: recibio y creo llave simetrica. continuando.
+delegado 329: recibio confirmacion del cliente:OK-continuado.
+delegado 329: recibio cc y clave - continuando
+delegado 329: envio valor 12864800 al cliente. continuado.
+delegado 329: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 330: recibio-HOLA-continuando.
+delegado 330: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 330: envio certificado del servidor. continuando.
+delegado 330: recibio y creo llave simetrica. continuando.
+delegado 330: recibio confirmacion del cliente:OK-continuado.
+delegado 330: recibio cc y clave - continuando
+delegado 330: envio valor 62664300 al cliente. continuado.
+delegado 330: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 331: recibio-HOLA-continuando.
+delegado 331: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 331: envio certificado del servidor. continuando.
+delegado 331: recibio y creo llave simetrica. continuando.
+delegado 331: recibio confirmacion del cliente:OK-continuado.
+delegado 331: recibio cc y clave - continuando
+delegado 331: envio valor 40689700 al cliente. continuado.
+delegado 331: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 332: recibio-HOLA-continuando.
+delegado 332: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 332: envio certificado del servidor. continuando.
+delegado 332: recibio y creo llave simetrica. continuando.
+delegado 332: recibio confirmacion del cliente:OK-continuado.
+delegado 332: recibio cc y clave - continuando
+delegado 332: envio valor 57701000 al cliente. continuado.
+delegado 332: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 333: recibio-HOLA-continuando.
+delegado 333: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 333: envio certificado del servidor. continuando.
+delegado 333: recibio y creo llave simetrica. continuando.
+delegado 333: recibio confirmacion del cliente:OK-continuado.
+delegado 333: recibio cc y clave - continuando
+delegado 333: envio valor 48227000 al cliente. continuado.
+delegado 333: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 334: recibio-HOLA-continuando.
+delegado 334: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 334: envio certificado del servidor. continuando.
+delegado 334: recibio y creo llave simetrica. continuando.
+delegado 334: recibio confirmacion del cliente:OK-continuado.
+delegado 334: recibio cc y clave - continuando
+delegado 334: envio valor 38728900 al cliente. continuado.
+delegado 334: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 335: recibio-HOLA-continuando.
+delegado 335: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 335: envio certificado del servidor. continuando.
+delegado 335: recibio y creo llave simetrica. continuando.
+delegado 335: recibio confirmacion del cliente:OK-continuado.
+delegado 335: recibio cc y clave - continuando
+delegado 335: envio valor 40666900 al cliente. continuado.
+delegado 335: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 336: recibio-HOLA-continuando.
+delegado 336: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 336: envio certificado del servidor. continuando.
+delegado 336: recibio y creo llave simetrica. continuando.
+delegado 336: recibio confirmacion del cliente:OK-continuado.
+delegado 336: recibio cc y clave - continuando
+delegado 336: envio valor 32012500 al cliente. continuado.
+delegado 336: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 337: recibio-HOLA-continuando.
+delegado 337: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 337: envio certificado del servidor. continuando.
+delegado 337: recibio y creo llave simetrica. continuando.
+delegado 337: recibio confirmacion del cliente:OK-continuado.
+delegado 337: recibio cc y clave - continuando
+delegado 337: envio valor 46653800 al cliente. continuado.
+delegado 337: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 338: recibio-HOLA-continuando.
+delegado 338: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 338: envio certificado del servidor. continuando.
+delegado 338: recibio y creo llave simetrica. continuando.
+delegado 338: recibio confirmacion del cliente:OK-continuado.
+delegado 338: recibio cc y clave - continuando
+delegado 338: envio valor 65568400 al cliente. continuado.
+delegado 338: Terminando exitosamente.OK
+TTMS: 133
+//
+delegado 339: recibio-HOLA-continuando.
+delegado 339: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 339: envio certificado del servidor. continuando.
+delegado 339: recibio y creo llave simetrica. continuando.
+delegado 339: recibio confirmacion del cliente:OK-continuado.
+delegado 339: recibio cc y clave - continuando
+delegado 339: envio valor 60617900 al cliente. continuado.
+delegado 339: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 340: recibio-HOLA-continuando.
+delegado 340: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 340: envio certificado del servidor. continuando.
+delegado 340: recibio y creo llave simetrica. continuando.
+delegado 340: recibio confirmacion del cliente:OK-continuado.
+delegado 340: recibio cc y clave - continuando
+delegado 340: envio valor 49921900 al cliente. continuado.
+delegado 340: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 341: recibio-HOLA-continuando.
+delegado 341: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 341: envio certificado del servidor. continuando.
+delegado 341: recibio y creo llave simetrica. continuando.
+delegado 341: recibio confirmacion del cliente:OK-continuado.
+delegado 341: recibio cc y clave - continuando
+delegado 341: envio valor 60795300 al cliente. continuado.
+delegado 341: Terminando exitosamente.OK
+TTMS: 137
+//
+delegado 342: recibio-HOLA-continuando.
+delegado 342: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 342: envio certificado del servidor. continuando.
+delegado 342: recibio y creo llave simetrica. continuando.
+delegado 342: recibio confirmacion del cliente:OK-continuado.
+delegado 342: recibio cc y clave - continuando
+delegado 342: envio valor 34016100 al cliente. continuado.
+delegado 342: Terminando exitosamente.OK
+TTMS: 120
+//
+delegado 343: recibio-HOLA-continuando.
+delegado 343: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 343: envio certificado del servidor. continuando.
+delegado 343: recibio y creo llave simetrica. continuando.
+delegado 343: recibio confirmacion del cliente:OK-continuado.
+delegado 343: recibio cc y clave - continuando
+delegado 343: envio valor 70138900 al cliente. continuado.
+delegado 343: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 344: recibio-HOLA-continuando.
+delegado 344: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 344: envio certificado del servidor. continuando.
+delegado 344: recibio y creo llave simetrica. continuando.
+delegado 344: recibio confirmacion del cliente:OK-continuado.
+delegado 344: recibio cc y clave - continuando
+delegado 344: envio valor 13236300 al cliente. continuado.
+delegado 344: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 345: recibio-HOLA-continuando.
+delegado 345: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 345: envio certificado del servidor. continuando.
+delegado 345: recibio y creo llave simetrica. continuando.
+delegado 345: recibio confirmacion del cliente:OK-continuado.
+delegado 345: recibio cc y clave - continuando
+delegado 345: envio valor 80651900 al cliente. continuado.
+delegado 345: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 346: recibio-HOLA-continuando.
+delegado 346: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 346: envio certificado del servidor. continuando.
+delegado 346: recibio y creo llave simetrica. continuando.
+delegado 346: recibio confirmacion del cliente:OK-continuado.
+delegado 346: recibio cc y clave - continuando
+delegado 346: envio valor 39380900 al cliente. continuado.
+delegado 346: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 347: recibio-HOLA-continuando.
+delegado 347: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 347: envio certificado del servidor. continuando.
+delegado 347: recibio y creo llave simetrica. continuando.
+delegado 347: recibio confirmacion del cliente:OK-continuado.
+delegado 347: recibio cc y clave - continuando
+delegado 347: envio valor 47093300 al cliente. continuado.
+delegado 347: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 348: recibio-HOLA-continuando.
+delegado 348: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 348: envio certificado del servidor. continuando.
+delegado 348: recibio y creo llave simetrica. continuando.
+delegado 348: recibio confirmacion del cliente:OK-continuado.
+delegado 348: recibio cc y clave - continuando
+delegado 348: envio valor 78442600 al cliente. continuado.
+delegado 348: Terminando exitosamente.OK
+TTMS: 132
+//
+delegado 349: recibio-HOLA-continuando.
+delegado 349: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 349: envio certificado del servidor. continuando.
+delegado 349: recibio y creo llave simetrica. continuando.
+delegado 349: recibio confirmacion del cliente:OK-continuado.
+delegado 349: recibio cc y clave - continuando
+delegado 349: envio valor 28782200 al cliente. continuado.
+delegado 349: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 350: recibio-HOLA-continuando.
+delegado 350: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 350: envio certificado del servidor. continuando.
+delegado 350: recibio y creo llave simetrica. continuando.
+delegado 350: recibio confirmacion del cliente:OK-continuado.
+delegado 350: recibio cc y clave - continuando
+delegado 350: envio valor 18741600 al cliente. continuado.
+delegado 350: Terminando exitosamente.OK
+TTMS: 132
+//
+delegado 351: recibio-HOLA-continuando.
+delegado 351: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 351: envio certificado del servidor. continuando.
+delegado 351: recibio y creo llave simetrica. continuando.
+delegado 351: recibio confirmacion del cliente:OK-continuado.
+delegado 351: recibio cc y clave - continuando
+delegado 351: envio valor 87773400 al cliente. continuado.
+delegado 351: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 352: recibio-HOLA-continuando.
+delegado 352: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 352: envio certificado del servidor. continuando.
+delegado 352: recibio y creo llave simetrica. continuando.
+delegado 352: recibio confirmacion del cliente:OK-continuado.
+delegado 352: recibio cc y clave - continuando
+delegado 352: envio valor 63889600 al cliente. continuado.
+delegado 352: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 353: recibio-HOLA-continuando.
+delegado 353: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 353: envio certificado del servidor. continuando.
+delegado 353: recibio y creo llave simetrica. continuando.
+delegado 353: recibio confirmacion del cliente:OK-continuado.
+delegado 353: recibio cc y clave - continuando
+delegado 353: envio valor 19593200 al cliente. continuado.
+delegado 353: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 354: recibio-HOLA-continuando.
+delegado 354: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 354: envio certificado del servidor. continuando.
+delegado 354: recibio y creo llave simetrica. continuando.
+delegado 354: recibio confirmacion del cliente:OK-continuado.
+delegado 354: recibio cc y clave - continuando
+delegado 354: envio valor 54420600 al cliente. continuado.
+delegado 354: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 355: recibio-HOLA-continuando.
+delegado 355: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 355: envio certificado del servidor. continuando.
+delegado 355: recibio y creo llave simetrica. continuando.
+delegado 355: recibio confirmacion del cliente:OK-continuado.
+delegado 355: recibio cc y clave - continuando
+delegado 355: envio valor 67320500 al cliente. continuado.
+delegado 355: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 356: recibio-HOLA-continuando.
+delegado 356: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 356: envio certificado del servidor. continuando.
+delegado 356: recibio y creo llave simetrica. continuando.
+delegado 356: recibio confirmacion del cliente:OK-continuado.
+delegado 356: recibio cc y clave - continuando
+delegado 356: envio valor 53149500 al cliente. continuado.
+delegado 356: Terminando exitosamente.OK
+TTMS: 135
+//
+delegado 357: recibio-HOLA-continuando.
+delegado 357: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 357: envio certificado del servidor. continuando.
+delegado 357: recibio y creo llave simetrica. continuando.
+delegado 357: recibio confirmacion del cliente:OK-continuado.
+delegado 357: recibio cc y clave - continuando
+delegado 357: envio valor 51860400 al cliente. continuado.
+delegado 357: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 358: recibio-HOLA-continuando.
+delegado 358: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 358: envio certificado del servidor. continuando.
+delegado 358: recibio y creo llave simetrica. continuando.
+delegado 358: recibio confirmacion del cliente:OK-continuado.
+delegado 358: recibio cc y clave - continuando
+delegado 358: envio valor 19121900 al cliente. continuado.
+delegado 358: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 359: recibio-HOLA-continuando.
+delegado 359: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 359: envio certificado del servidor. continuando.
+delegado 359: recibio y creo llave simetrica. continuando.
+delegado 359: recibio confirmacion del cliente:OK-continuado.
+delegado 359: recibio cc y clave - continuando
+delegado 359: envio valor 86053600 al cliente. continuado.
+delegado 359: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 360: recibio-HOLA-continuando.
+delegado 360: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 360: envio certificado del servidor. continuando.
+delegado 360: recibio y creo llave simetrica. continuando.
+delegado 360: recibio confirmacion del cliente:OK-continuado.
+delegado 360: recibio cc y clave - continuando
+delegado 360: envio valor 96987400 al cliente. continuado.
+delegado 360: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 361: recibio-HOLA-continuando.
+delegado 361: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 361: envio certificado del servidor. continuando.
+delegado 361: recibio y creo llave simetrica. continuando.
+delegado 361: recibio confirmacion del cliente:OK-continuado.
+delegado 361: recibio cc y clave - continuando
+delegado 361: envio valor 61095600 al cliente. continuado.
+delegado 361: Terminando exitosamente.OK
+TTMS: 127
+//
+delegado 362: recibio-HOLA-continuando.
+delegado 362: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 362: envio certificado del servidor. continuando.
+delegado 362: recibio y creo llave simetrica. continuando.
+delegado 362: recibio confirmacion del cliente:OK-continuado.
+delegado 362: recibio cc y clave - continuando
+delegado 362: envio valor 49794200 al cliente. continuado.
+delegado 362: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 363: recibio-HOLA-continuando.
+delegado 363: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 363: envio certificado del servidor. continuando.
+delegado 363: recibio y creo llave simetrica. continuando.
+delegado 363: recibio confirmacion del cliente:OK-continuado.
+delegado 363: recibio cc y clave - continuando
+delegado 363: envio valor 43144900 al cliente. continuado.
+delegado 363: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 364: recibio-HOLA-continuando.
+delegado 364: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 364: envio certificado del servidor. continuando.
+delegado 364: recibio y creo llave simetrica. continuando.
+delegado 364: recibio confirmacion del cliente:OK-continuado.
+delegado 364: recibio cc y clave - continuando
+delegado 364: envio valor 80098300 al cliente. continuado.
+delegado 364: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 365: recibio-HOLA-continuando.
+delegado 365: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 365: envio certificado del servidor. continuando.
+delegado 365: recibio y creo llave simetrica. continuando.
+delegado 365: recibio confirmacion del cliente:OK-continuado.
+delegado 365: recibio cc y clave - continuando
+delegado 365: envio valor 92202600 al cliente. continuado.
+delegado 365: Terminando exitosamente.OK
+TTMS: 131
+//
+delegado 366: recibio-HOLA-continuando.
+delegado 366: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 366: envio certificado del servidor. continuando.
+delegado 366: recibio y creo llave simetrica. continuando.
+delegado 366: recibio confirmacion del cliente:OK-continuado.
+delegado 366: recibio cc y clave - continuando
+delegado 366: envio valor 72355200 al cliente. continuado.
+delegado 366: Terminando exitosamente.OK
+TTMS: 131
+//
+delegado 367: recibio-HOLA-continuando.
+delegado 367: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 367: envio certificado del servidor. continuando.
+delegado 367: recibio y creo llave simetrica. continuando.
+delegado 367: recibio confirmacion del cliente:OK-continuado.
+delegado 367: recibio cc y clave - continuando
+delegado 367: envio valor 15799300 al cliente. continuado.
+delegado 367: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 368: recibio-HOLA-continuando.
+delegado 368: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 368: envio certificado del servidor. continuando.
+delegado 368: recibio y creo llave simetrica. continuando.
+delegado 368: recibio confirmacion del cliente:OK-continuado.
+delegado 368: recibio cc y clave - continuando
+delegado 368: envio valor 54916000 al cliente. continuado.
+delegado 368: Terminando exitosamente.OK
+TTMS: 126
+//
+delegado 369: recibio-HOLA-continuando.
+delegado 369: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 369: envio certificado del servidor. continuando.
+delegado 369: recibio y creo llave simetrica. continuando.
+delegado 369: recibio confirmacion del cliente:OK-continuado.
+delegado 369: recibio cc y clave - continuando
+delegado 369: envio valor 54686100 al cliente. continuado.
+delegado 369: Terminando exitosamente.OK
+TTMS: 128
+//
+delegado 370: recibio-HOLA-continuando.
+delegado 370: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 370: envio certificado del servidor. continuando.
+delegado 370: recibio y creo llave simetrica. continuando.
+delegado 370: recibio confirmacion del cliente:OK-continuado.
+delegado 370: recibio cc y clave - continuando
+delegado 370: envio valor 89786800 al cliente. continuado.
+delegado 370: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 371: recibio-HOLA-continuando.
+delegado 371: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 371: envio certificado del servidor. continuando.
+delegado 371: recibio y creo llave simetrica. continuando.
+delegado 371: recibio confirmacion del cliente:OK-continuado.
+delegado 371: recibio cc y clave - continuando
+delegado 371: envio valor 22435400 al cliente. continuado.
+delegado 371: Terminando exitosamente.OK
+TTMS: 132
+//
+delegado 372: recibio-HOLA-continuando.
+delegado 372: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 372: envio certificado del servidor. continuando.
+delegado 372: recibio y creo llave simetrica. continuando.
+delegado 372: recibio confirmacion del cliente:OK-continuado.
+delegado 372: recibio cc y clave - continuando
+delegado 372: envio valor 39933900 al cliente. continuado.
+delegado 372: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 373: recibio-HOLA-continuando.
+delegado 373: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 373: envio certificado del servidor. continuando.
+delegado 373: recibio y creo llave simetrica. continuando.
+delegado 373: recibio confirmacion del cliente:OK-continuado.
+delegado 373: recibio cc y clave - continuando
+delegado 373: envio valor 60768000 al cliente. continuado.
+delegado 373: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 374: recibio-HOLA-continuando.
+delegado 374: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 374: envio certificado del servidor. continuando.
+delegado 374: recibio y creo llave simetrica. continuando.
+delegado 374: recibio confirmacion del cliente:OK-continuado.
+delegado 374: recibio cc y clave - continuando
+delegado 374: envio valor 21093300 al cliente. continuado.
+delegado 374: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 375: recibio-HOLA-continuando.
+delegado 375: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 375: envio certificado del servidor. continuando.
+delegado 375: recibio y creo llave simetrica. continuando.
+delegado 375: recibio confirmacion del cliente:OK-continuado.
+delegado 375: recibio cc y clave - continuando
+delegado 375: envio valor 15557600 al cliente. continuado.
+delegado 375: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 376: recibio-HOLA-continuando.
+delegado 376: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 376: envio certificado del servidor. continuando.
+delegado 376: recibio y creo llave simetrica. continuando.
+delegado 376: recibio confirmacion del cliente:OK-continuado.
+delegado 376: recibio cc y clave - continuando
+delegado 376: envio valor 85653700 al cliente. continuado.
+delegado 376: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 377: recibio-HOLA-continuando.
+delegado 377: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 377: envio certificado del servidor. continuando.
+delegado 377: recibio y creo llave simetrica. continuando.
+delegado 377: recibio confirmacion del cliente:OK-continuado.
+delegado 377: recibio cc y clave - continuando
+delegado 377: envio valor 31315000 al cliente. continuado.
+delegado 377: Terminando exitosamente.OK
+TTMS: 128
+//
+delegado 378: recibio-HOLA-continuando.
+delegado 378: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 378: envio certificado del servidor. continuando.
+delegado 378: recibio y creo llave simetrica. continuando.
+delegado 378: recibio confirmacion del cliente:OK-continuado.
+delegado 378: recibio cc y clave - continuando
+delegado 378: envio valor 26182100 al cliente. continuado.
+delegado 378: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 379: recibio-HOLA-continuando.
+delegado 379: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 379: envio certificado del servidor. continuando.
+delegado 379: recibio y creo llave simetrica. continuando.
+delegado 379: recibio confirmacion del cliente:OK-continuado.
+delegado 379: recibio cc y clave - continuando
+delegado 379: envio valor 49135000 al cliente. continuado.
+delegado 379: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 380: recibio-HOLA-continuando.
+delegado 380: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 380: envio certificado del servidor. continuando.
+delegado 380: recibio y creo llave simetrica. continuando.
+delegado 380: recibio confirmacion del cliente:OK-continuado.
+delegado 380: recibio cc y clave - continuando
+delegado 380: envio valor 70234100 al cliente. continuado.
+delegado 380: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 381: recibio-HOLA-continuando.
+delegado 381: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 381: envio certificado del servidor. continuando.
+delegado 381: recibio y creo llave simetrica. continuando.
+delegado 381: recibio confirmacion del cliente:OK-continuado.
+delegado 381: recibio cc y clave - continuando
+delegado 381: envio valor 72127000 al cliente. continuado.
+delegado 381: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 382: recibio-HOLA-continuando.
+delegado 382: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 382: envio certificado del servidor. continuando.
+delegado 382: recibio y creo llave simetrica. continuando.
+delegado 382: recibio confirmacion del cliente:OK-continuado.
+delegado 382: recibio cc y clave - continuando
+delegado 382: envio valor 13809000 al cliente. continuado.
+delegado 382: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 383: recibio-HOLA-continuando.
+delegado 383: recibio-ALGORITMOS:AES:RSA:HMACSHA384-continuando.
+delegado 383: envio certificado del servidor. continuando.
+delegado 383: recibio y creo llave simetrica. continuando.
+delegado 383: recibio confirmacion del cliente:OK-continuado.
+delegado 383: recibio cc y clave - continuando
+delegado 383: envio valor 26588300 al cliente. continuado.
+delegado 383: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 384: recibio-HOLA-continuando.
+delegado 384: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 384: envio certificado del servidor. continuando.
+delegado 384: recibio y creo llave simetrica. continuando.
+delegado 384: recibio confirmacion del cliente:OK-continuado.
+delegado 384: recibio cc y clave - continuando
+delegado 384: envio valor 28161500 al cliente. continuado.
+delegado 384: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 385: recibio-HOLA-continuando.
+delegado 385: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 385: envio certificado del servidor. continuando.
+delegado 385: recibio y creo llave simetrica. continuando.
+delegado 385: recibio confirmacion del cliente:OK-continuado.
+delegado 385: recibio cc y clave - continuando
+delegado 385: envio valor 38027500 al cliente. continuado.
+delegado 385: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 386: recibio-HOLA-continuando.
+delegado 386: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 386: envio certificado del servidor. continuando.
+delegado 386: recibio y creo llave simetrica. continuando.
+delegado 386: recibio confirmacion del cliente:OK-continuado.
+delegado 386: recibio cc y clave - continuando
+delegado 386: envio valor 59683500 al cliente. continuado.
+delegado 386: Terminando exitosamente.OK
+TTMS: 126
+//
+delegado 387: recibio-HOLA-continuando.
+delegado 387: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 387: envio certificado del servidor. continuando.
+delegado 387: recibio y creo llave simetrica. continuando.
+delegado 387: recibio confirmacion del cliente:OK-continuado.
+delegado 387: recibio cc y clave - continuando
+delegado 387: envio valor 93534100 al cliente. continuado.
+delegado 387: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 388: recibio-HOLA-continuando.
+delegado 388: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 388: envio certificado del servidor. continuando.
+delegado 388: recibio y creo llave simetrica. continuando.
+delegado 388: recibio confirmacion del cliente:OK-continuado.
+delegado 388: recibio cc y clave - continuando
+delegado 388: envio valor 60283100 al cliente. continuado.
+delegado 388: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 389: recibio-HOLA-continuando.
+delegado 389: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 389: envio certificado del servidor. continuando.
+delegado 389: recibio y creo llave simetrica. continuando.
+delegado 389: recibio confirmacion del cliente:OK-continuado.
+delegado 389: recibio cc y clave - continuando
+delegado 389: envio valor 65775200 al cliente. continuado.
+delegado 389: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 390: recibio-HOLA-continuando.
+delegado 390: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 390: envio certificado del servidor. continuando.
+delegado 390: recibio y creo llave simetrica. continuando.
+delegado 390: recibio confirmacion del cliente:OK-continuado.
+delegado 390: recibio cc y clave - continuando
+delegado 390: envio valor 54219700 al cliente. continuado.
+delegado 390: Terminando exitosamente.OK
+TTMS: 129
+//
+delegado 391: recibio-HOLA-continuando.
+delegado 391: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 391: envio certificado del servidor. continuando.
+delegado 391: recibio y creo llave simetrica. continuando.
+delegado 391: recibio confirmacion del cliente:OK-continuado.
+delegado 391: recibio cc y clave - continuando
+delegado 391: envio valor 42443100 al cliente. continuado.
+delegado 391: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 392: recibio-HOLA-continuando.
+delegado 392: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA1-continuando.
+delegado 392: envio certificado del servidor. continuando.
+delegado 392: recibio y creo llave simetrica. continuando.
+delegado 392: recibio confirmacion del cliente:OK-continuado.
+delegado 392: recibio cc y clave - continuando
+delegado 392: envio valor 15695300 al cliente. continuado.
+delegado 392: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 393: recibio-HOLA-continuando.
+delegado 393: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 393: envio certificado del servidor. continuando.
+delegado 393: recibio y creo llave simetrica. continuando.
+delegado 393: recibio confirmacion del cliente:OK-continuado.
+delegado 393: recibio cc y clave - continuando
+delegado 393: envio valor 22725400 al cliente. continuado.
+delegado 393: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 394: recibio-HOLA-continuando.
+delegado 394: recibio-ALGORITMOS:AES:RSA:HMACSHA256-continuando.
+delegado 394: envio certificado del servidor. continuando.
+delegado 394: recibio y creo llave simetrica. continuando.
+delegado 394: recibio confirmacion del cliente:OK-continuado.
+delegado 394: recibio cc y clave - continuando
+delegado 394: envio valor 25014200 al cliente. continuado.
+delegado 394: Terminando exitosamente.OK
+TTMS: 124
+//
+delegado 395: recibio-HOLA-continuando.
+delegado 395: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 395: envio certificado del servidor. continuando.
+delegado 395: recibio y creo llave simetrica. continuando.
+delegado 395: recibio confirmacion del cliente:OK-continuado.
+delegado 395: recibio cc y clave - continuando
+delegado 395: envio valor 44107100 al cliente. continuado.
+delegado 395: Terminando exitosamente.OK
+TTMS: 122
+//
+delegado 396: recibio-HOLA-continuando.
+delegado 396: recibio-ALGORITMOS:AES:RSA:HMACSHA1-continuando.
+delegado 396: envio certificado del servidor. continuando.
+delegado 396: recibio y creo llave simetrica. continuando.
+delegado 396: recibio confirmacion del cliente:OK-continuado.
+delegado 396: recibio cc y clave - continuando
+delegado 396: envio valor 27780300 al cliente. continuado.
+delegado 396: Terminando exitosamente.OK
+TTMS: 125
+//
+delegado 397: recibio-HOLA-continuando.
+delegado 397: recibio-ALGORITMOS:AES:RSA:HMACSHA512-continuando.
+delegado 397: envio certificado del servidor. continuando.
+delegado 397: recibio y creo llave simetrica. continuando.
+delegado 397: recibio confirmacion del cliente:OK-continuado.
+delegado 397: recibio cc y clave - continuando
+delegado 397: envio valor 11120700 al cliente. continuado.
+delegado 397: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 398: recibio-HOLA-continuando.
+delegado 398: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA256-continuando.
+delegado 398: envio certificado del servidor. continuando.
+delegado 398: recibio y creo llave simetrica. continuando.
+delegado 398: recibio confirmacion del cliente:OK-continuado.
+delegado 398: recibio cc y clave - continuando
+delegado 398: envio valor 12527200 al cliente. continuado.
+delegado 398: Terminando exitosamente.OK
+TTMS: 123
+//
+delegado 399: recibio-HOLA-continuando.
+delegado 399: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA384-continuando.
+delegado 399: envio certificado del servidor. continuando.
+delegado 399: recibio y creo llave simetrica. continuando.
+delegado 399: recibio confirmacion del cliente:OK-continuado.
+delegado 399: recibio cc y clave - continuando
+delegado 399: envio valor 50456900 al cliente. continuado.
+delegado 399: Terminando exitosamente.OK
+TTMS: 134
+//
+
